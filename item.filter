@@ -1,6 +1,6 @@
-//╔══════════════════════════════════════════════════════════╗
-//║						 General                             ║
-//╚══════════════════════════════════════════════════════════╝
+//╔═══════════════════════════╗
+//║.         General.         ║
+//╚═══════════════════════════╝
 //
 //	Gold
 ItemDisplay[GOLD<200 CLVL<20]:
@@ -78,9 +78,9 @@ ItemDisplay[tr1]: %NAME% %RED%[Quest]
 ItemDisplay[tr2]: %NAME% %RED%[Quest]
 ItemDisplay[xyz]: %NAME% %RED%[Quest]
 //
-//╔══════════════════════════════════════════════════════════╗
-//║							Runes                            ║
-//╚══════════════════════════════════════════════════════════╝
+//╔═════════════════════════╗
+//║.         Runes.         ║
+//╚═════════════════════════╝
 //
 ItemDisplay[r01]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}
 ItemDisplay[r02]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}
@@ -116,18 +116,18 @@ ItemDisplay[r31]: %RED%»»»»»»»»»»»»      %ORANGE%%RUNENAME% %WHITE%%
 ItemDisplay[r32]: %GOLD%»»»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%GREEN%flawless%TAN%} %GRAY%|%GRAY%0.75%GRAY%|      %GOLD%«««
 ItemDisplay[r33]: %GOLD%»»»»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%WHITE%flawless%TAN%} %GRAY%|%WHITE%1%GRAY%|      %GOLD%««««
 //
-//╔══════════════════════════════════════════════════════════╗
-//║							Rares                            ║
-//╚══════════════════════════════════════════════════════════╝
+//╔═════════════════════════╗
+//║.         Rares.         ║
+//╚═════════════════════════╝
 //
 ItemDisplay[RARE EQ7 !ETH !ID]: %YELLOW%%NAME% // Circlets
 ItemDisplay[RARE amu !ID]: %RED%» %YELLOW%%NAME% %RED%«
 ItemDisplay[RARE rin !ID]: %RED%» %YELLOW%%NAME% %RED%«
 ItemDisplay[RARE jew !ID]: %RED%» %YELLOW%%NAME% %RED%«
 //
-//╔══════════════════════════════════════════════════════════╗
-//║							Charms                           ║
-//╚══════════════════════════════════════════════════════════╝
+//╔══════════════════════════╗
+//║.         Charms.         ║
+//╚══════════════════════════╝
 //
 ItemDisplay[UNI !ID cm1]: %RED%Annihilus
 ItemDisplay[UNI !ID cm2]: %RED%Hellfire Torch
@@ -138,9 +138,9 @@ ItemDisplay[UNI ID cm3]: %ORANGE%Gheed's Fortune
 ItemDisplay[cm1]: %NAME% %WHITE%%ILVL% // Small Charms
 ItemDisplay[cm3]: %NAME% %WHITE%%ILVL% // Grand Charms
 //
-//╔══════════════════════════════════════════════════════════╗
-//║							Uniques                          ║
-//╚══════════════════════════════════════════════════════════╝
+//╔═══════════════════════════╗
+//║.         Uniques.         ║
+//╚═══════════════════════════╝
 //
 ItemDisplay[UNI !ID rin]: %RED%»»»»»»»»»»»»»»»»»» %PURPLE%UNIQUE RING HYPE %RED%««««««««««««««««««
 ItemDisplay[UNI rin]: %GOLD%%NAME% %WHITE%%ILVL%
@@ -205,9 +205,9 @@ ItemDisplay[UNI !ID dra !ETH]: %RED%Jalal's Mane
 ItemDisplay[UNI !ID pa9 !ETH]: %RED%Herald of Zakarum
 ItemDisplay[UNI !ID pa9 ETH]: %RED%ETH Herald of Zakarum
 //
-//╔══════════════════════════════════════════════════════════╗
-//║							Sets                             ║
-//╚══════════════════════════════════════════════════════════╝
+//╔════════════════════════╗
+//║.         Sets.         ║
+//╚════════════════════════╝
 //
 ItemDisplay[SET !ID ulg]: %GREEN%Laying of Hands
 ItemDisplay[SET !ID ba5]: %GREEN%Immortal King's Will
@@ -219,9 +219,9 @@ ItemDisplay[SET !ID uth]: %GREEN%Tal Rasha's Guardianship
 ItemDisplay[SET !ID xul]: %GREEN%Trang-Oul's Scales
 ItemDisplay[SET !ID uhm]: %GREEN%Ondal's Almighty
 //
-//╔══════════════════════════════════════════════════════════╗
-//║							Runeword Bases                   ║
-//╚══════════════════════════════════════════════════════════╝
+//╔══════════════════════════════════╗
+//║.         Runeword Bases.         ║
+//╚══════════════════════════════════╝
 //
 ItemDisplay[RW]: %NAME% %RED%[%SOCKETS%] %TAN%[%ILVL%]
 ItemDisplay[NMAG ETH !RW !SOCK=1 ED=15 xtp]: %DGREEN%ETH %NAME%%BLUE% +15%ED %PURPLE%[%SOCKETS%]
@@ -237,18 +237,18 @@ ItemDisplay[7ls ETH !RW NMAG ED=15 SOCK=3]: %DGREEN%ETH %NAME%%BLUE% +15%ED %PUR
 ItemDisplay[7ls !ETH !RW NMAG ED=15 SOCK=3]: %DGREEN%%NAME%%BLUE% +15%ED %YELLOW%[%SOCKETS%]
 ItemDisplay[72h !ETH !RW NMAG ED=15 SOCK=3]: %DGREEN%%NAME%%BLUE% +15%ED %RED%[%SOCKETS%]
 //
-//╔══════════════════════════════════════════════════════════╗
-//║							ILVL Filters                     ║
-//╚══════════════════════════════════════════════════════════╝
+//╔════════════════════════════════╗
+//║.         ILVL Filters.         ║
+//╚════════════════════════════════╝
 //
 ItemDisplay[MAG amu ILVL>89]: %BLUE%%NAME%
 ItemDisplay[MAG rin ILVL>89]: %BLUE%%NAME%
 ItemDisplay[MAG jew ILVL>89]: %BLUE%%NAME%
 ItemDisplay[RARE ILVL>89]: %YELLOW%%NAME%
 //
-//╔══════════════════════════════════════════════════════════╗
-//║							Catch-All                        ║
-//╚══════════════════════════════════════════════════════════╝
+//╔═════════════════════════════╗
+//║.         Catch-All.         ║
+//╚═════════════════════════════╝
 //
 ItemDisplay[NMAG]:
 ItemDisplay[ETH]:
