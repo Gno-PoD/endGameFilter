@@ -1,9 +1,11 @@
 # gno's endGameFilter
 An end-game oriented loot filter for Path of Diablo. 
+
 High visibility for high-value items!
+
 Perfect for mapping.
 
-Features:
+# Features:
 Hides gold when the stash bank is full.
 Hides all consumables but Full Rejuvenation Potions.
 Runes display their number, and their abbreviated upgrade receipe.
