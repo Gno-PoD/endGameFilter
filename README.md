@@ -1,4 +1,4 @@
-# endGameFilter
+# gno's endGameFilter
 An end-game oriented loot filter for Path of Diablo. 
 High visibility for high-value items!
 Perfect for mapping.
