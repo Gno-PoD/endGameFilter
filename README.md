@@ -1,9 +1,7 @@
 # gno's endGameFilter
 An end-game oriented loot filter for Path of Diablo. 
 
-High visibility for high-value items!
-
-Perfect for mapping.
+High visibility for high-value items, perfect for mapping!
 
 # Features:
 Hides gold when the stash bank is full.
