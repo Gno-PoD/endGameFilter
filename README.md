@@ -14,12 +14,10 @@ Rare throwing weapons, wands and class weapons are displayed if they are ilvl>80
 
 All rare circlets are displayed.
 
-Magic rings and amulets are displayed if they are ilvl>89, jewels if they are ilvl>80.
-
-Magic small charms, grand charms, and jewels have their ilvl represented in their name.
+Magic rings and amulets are displayed if they are ilvl>89, jewels if they are ilvl>80..
 
 Valuable unique items only.
 
 Valuable set items only.
 
-15% ED Runeword bases only.
+>=10% ED Runeword bases only.
