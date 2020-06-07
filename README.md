@@ -10,7 +10,7 @@ Hides all consumables but Full Rejuvenation Potions.
 
 Runes display their number, and their abbreviated upgrade receipe.
 
-Rares are displayed if they are ILVL>89.
+Rare throwing weapons, wands and class weapons are displayed if they are ILVL>89.
 
 Rare circlets are displayed.
 
