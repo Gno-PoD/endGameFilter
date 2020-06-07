@@ -160,9 +160,9 @@ ItemDisplay[skz]: %GRAY%perfect
 //║          Rares          ║
 //╚═════════════════════════╝
 //
-ItemDisplay[RARE EQ7 !ETH !ID]: %YELLOW%%NAME% // Circlets
-ItemDisplay[RARE amu !ID]: %RED%» %YELLOW%%NAME% %RED%«
-ItemDisplay[RARE rin !ID]: %RED%» %YELLOW%%NAME% %RED%«
+ItemDisplay[RARE EQ7 !ETH !ID]: %YELLOW%» %YELLOW%%NAME% %YELLOW%« // Circlets
+ItemDisplay[RARE amu !ID]: %RED%»» %YELLOW%%NAME% %RED%««
+ItemDisplay[RARE rin !ID]: %YELLOW%»» %YELLOW%%NAME% %YELLOW%««
 ItemDisplay[RARE jew !ID]: %RED%» %YELLOW%%NAME% %RED%«
 //
 //╔══════════════════════════╗
@@ -175,8 +175,8 @@ ItemDisplay[UNI !ID cm3]: %RED%Gheed's Fortune
 ItemDisplay[UNI ID cm1]: %ORANGE%Annihilus
 ItemDisplay[UNI ID cm2]: %ORANGE%Hellfire Torch
 ItemDisplay[UNI ID cm3]: %ORANGE%Gheed's Fortune
-ItemDisplay[cm1]: %NAME% %WHITE%%ILVL% // Small Charms
-ItemDisplay[cm3]: %NAME% %WHITE%%ILVL% // Grand Charms
+ItemDisplay[cm1]: %BLUE%» %NAME% %WHITE%%ILVL% %BLUE%« // Small Charms
+ItemDisplay[cm3]: %BLUE%» %NAME% %WHITE%%ILVL% %BLUE%« // Grand Charms
 //
 //╔═══════════════════════════╗
 //║          Uniques          ║
@@ -250,13 +250,13 @@ ItemDisplay[UNI !ID pa9 ETH]: %RED%ETH Herald of Zakarum
 //║          Sets          ║
 //╚════════════════════════╝
 //
-ItemDisplay[SET !ID ulg]: %GREEN%Laying of Hands
-ItemDisplay[SET !ID uar]: %GREEN%Immortal King's Soul Cage
-ItemDisplay[SET !ID ucl]: %GREEN%Natalya's Shadow
-ItemDisplay[SET !ID xhm]: %GREEN%Guillaume's Face 
-ItemDisplay[SET !ID uth]: %GREEN%Tal Rasha's Guardianship 
-ItemDisplay[SET !ID xul]: %GREEN%Trang-Oul's Scales
-ItemDisplay[SET !ID uhm]: %GREEN%Ondal's Almighty
+ItemDisplay[SET !ID ulg]: %RED%» %GREEN%Laying of Hands %RED%«
+ItemDisplay[SET !ID uar]: %RED%» %GREEN%Immortal King's Soul Cage %RED%«
+ItemDisplay[SET !ID ucl]: %RED%» %GREEN%Natalya's Shadow %RED%«
+ItemDisplay[SET !ID xhm]: %RED%» %GREEN%Guillaume's Face %RED%«
+ItemDisplay[SET !ID uth]: %RED%» %GREEN%Tal Rasha's Guardianship %RED%«
+ItemDisplay[SET !ID xul]: %RED%» %GREEN%Trang-Oul's Scales %RED%«
+ItemDisplay[SET !ID uhm]: %RED%» %GREEN%Ondal's Almighty %RED%«
 //
 //╔══════════════════════════════════╗
 //║          Runeword Bases          ║
@@ -281,10 +281,10 @@ ItemDisplay[72h !ETH !RW NMAG ED=15 SOCK=3]: %RED%» %DGREEN%%NAME%%BLUE% +15%ED
 //║          ILVL Filters          ║
 //╚════════════════════════════════╝
 //
-ItemDisplay[MAG !ID amu ILVL>89]: %BLUE%%NAME%
-ItemDisplay[MAG !ID rin ILVL>89]: %BLUE%%NAME%
-ItemDisplay[MAG !ID jew ILVL>80]: %BLUE%%NAME% %WHITE%%ILVL%
-ItemDisplay[RARE !ID !WP1 !WP2 !WP3 !WP4 !WP7 !WP8 !WP9 !WP10 !WP11 !WP13 !ARMOR ILVL>80]: %YELLOW%%NAME% // Only throwing weapons, wands and class weapons
+ItemDisplay[MAG !ID amu ILVL>89]: %BLUE%» %BLUE%%NAME% %BLUE%«
+ItemDisplay[MAG !ID rin ILVL>89]: %BLUE%» %BLUE%%NAME% %BLUE%«
+ItemDisplay[MAG !ID jew ILVL>80]: %BLUE%» %BLUE%%NAME% %WHITE%%ILVL% %BLUE%«
+ItemDisplay[RARE !ID !WP1 !WP2 !WP3 !WP4 !WP7 !WP8 !WP9 !WP10 !WP11 !WP13 !ARMOR ILVL>80]: %YELLOW%» %YELLOW%%NAME% %YELLOW%« // Only throwing weapons, wands and class weapons
 //
 //╔═════════════════════════════╗
 //║          Catch-All          ║
