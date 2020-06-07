@@ -41,14 +41,14 @@ ItemDisplay[cx5]: %WHITE%Orb %GRAY%of %RED%Corruption
 ItemDisplay[cx6]: %RED%Diablo's %PURPLE%Soulstone
 ItemDisplay[cx7]: %WHITE%KEY %GRAY%OF %PURPLE%CHAOS
 ItemDisplay[cx8]: %BLUE%Enchantment %PURPLE%Orb
-ItemDisplay[cx9]: %PURPLE%%NAME%
-ItemDisplay[ma1]: %PURPLE%%NAME%
+ItemDisplay[cx9]: %RED%»» %PURPLE%%NAME% %RED%««
+ItemDisplay[ma1]: %RED%»» %PURPLE%%NAME% %RED%««
 ItemDisplay[ma2]: %PURPLE%Tier 4 Map %GRAY%Forgotten Desert
-ItemDisplay[ma3]: %PURPLE%%NAME%
+ItemDisplay[ma3]: %RED%»» %PURPLE%%NAME% %RED%««
 ItemDisplay[ma4]: %PURPLE%Tier 1 Map %GRAY%Desecrated Temple
 ItemDisplay[ma5]: %PURPLE%Tier 2 Map %GRAY%Frigid Plateau
 ItemDisplay[ma6]: %PURPLE%Tier 3 Map %GRAY%Ruined Citadel
-ItemDisplay[ma7]: %PURPLE%Tier 5 Map
+ItemDisplay[ma7]: %PURPLE%Tier 5 Map %GRAY%Cow Level?
 ItemDisplay[maz]: %PURPLE%%NAME%
 ItemDisplay[UNI !ID cm4]: %PURPLE%Horadrim %TAN%Sigil
 //		Uber Keys
