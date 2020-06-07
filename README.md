@@ -10,11 +10,11 @@ Hides all consumables but Full Rejuvenation Potions.
 
 Runes display their number and their upgrade receipe.
 
-Rare throwing weapons, wands and class weapons are displayed if they are ilvl>80.
+Rare gloves, belts, and claws are displayed if they are ilvl>88.
 
-All rare circlets are displayed.
+All circlets and jewels are displayed.
 
-Magic rings and amulets are displayed if they are ilvl>89, jewels if they are ilvl>80..
+Magic rings and amulets are displayed if they are ilvl>88.
 
 Valuable unique items only.
 
