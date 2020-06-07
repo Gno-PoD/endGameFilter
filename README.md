@@ -12,7 +12,7 @@ Runes display their number, and their abbreviated upgrade receipe.
 
 Rare throwing weapons, wands and class weapons are displayed if they are ILVL>89.
 
-Rare circlets are displayed.
+All rare circlets are displayed.
 
 Magic jewels, rings, amulets are displayed if they are ILVL>89.
 
