@@ -10,13 +10,13 @@ Hides all consumables but Full Rejuvenation Potions.
 
 Runes display their number, and their abbreviated upgrade receipe.
 
-Rare throwing weapons, wands and class weapons are displayed if they are ILVL>89.
+Rare throwing weapons, wands and class weapons are displayed if they are ilvl>80.
 
 All rare circlets are displayed.
 
-Magic rings and amulets are displayed if they are ILVL>89, jewels if they are ILVL>80.
+Magic rings and amulets are displayed if they are ilvl>89, jewels if they are ilvl>80.
 
-Magic Small Charms and Grand Charms have their ilvl represented in their name.
+Magic small charms, grand charms, and jewels have their ilvl represented in their name.
 
 Valuable unique items only.
 
