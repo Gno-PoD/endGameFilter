@@ -82,39 +82,39 @@ ItemDisplay[xyz]: %NAME% %RED%[Quest]
 //║          Runes          ║
 //╚═════════════════════════╝
 //
-ItemDisplay[r01]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}
-ItemDisplay[r02]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}
-ItemDisplay[r03]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}
-ItemDisplay[r04]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}
-ItemDisplay[r05]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}
-ItemDisplay[r06]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}
-ItemDisplay[r07]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}
-ItemDisplay[r08]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}
-ItemDisplay[r09]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}
-ItemDisplay[r10]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%YELLOW%chipped%TAN%}
-ItemDisplay[r11]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%PURPLE%chipped%TAN%}
-ItemDisplay[r12]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%BLUE%chipped%TAN%}
-ItemDisplay[r13]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%RED%chipped%TAN%}
-ItemDisplay[r14]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%GREEN%chipped%TAN%}
-ItemDisplay[r15]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%WHITE%chipped%TAN%}
-ItemDisplay[r16]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%YELLOW%flawed%TAN%}
-ItemDisplay[r17]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%PURPLE%flawed%TAN%}
-ItemDisplay[r18]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%BLUE%flawed%TAN%}
-ItemDisplay[r19]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%RED%flawed%TAN%}
-ItemDisplay[r20]: %BLUE%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%GREEN%flawed%TAN%}      %BLUE%«
-ItemDisplay[r21]: %BLUE%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%WHITE%flawed%TAN%}      %BLUE%«
-ItemDisplay[r22]: %BLUE%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%YELLOW%topaz%TAN%}      %BLUE%«
-ItemDisplay[r23]: %BLUE%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%PURPLE%amethyst%TAN%} %GRAY%|%GRAY%0.1%GRAY%|      %BLUE%«
-ItemDisplay[r24]: %BLUE%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM%  %TAN%{%ORANGE%2%BLUE%saphire%TAN%} %GRAY%|%GRAY%0.1625%GRAY%|      %BLUE%«
-ItemDisplay[r25]: %YELLOW%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%RED%ruby%TAN%} %GRAY%|%GRAY%0.25%GRAY%|      %YELLOW%«
-ItemDisplay[r26]: %YELLOW%»»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%GREEN%emerald%TAN%} %GRAY%|%GRAY%0.5%GRAY%|      %YELLOW%««
-ItemDisplay[r27]: %YELLOW%»»»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%WHITE%diamond%TAN%} %GRAY%|%GRAY%0.75%GRAY%|      %YELLOW%«««
+ItemDisplay[r01]: %GRAY%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}      %GRAY%«
+ItemDisplay[r02]: %GRAY%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}      %GRAY%«
+ItemDisplay[r03]: %GRAY%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}      %GRAY%«
+ItemDisplay[r04]: %GRAY%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}      %GRAY%«
+ItemDisplay[r05]: %GRAY%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}      %GRAY%«
+ItemDisplay[r06]: %GRAY%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}      %GRAY%«
+ItemDisplay[r07]: %GRAY%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}      %GRAY%«
+ItemDisplay[r08]: %GRAY%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}      %GRAY%«
+ItemDisplay[r09]: %GRAY%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}      %GRAY%«
+ItemDisplay[r10]: %WHITE%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%YELLOW%chipped%TAN%}      %WHITE%«
+ItemDisplay[r11]: %WHITE%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%PURPLE%chipped%TAN%}      %WHITE%«
+ItemDisplay[r12]: %WHITE%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%BLUE%chipped%TAN%}      %WHITE%«
+ItemDisplay[r13]: %WHITE%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%RED%chipped%TAN%}      %WHITE%«
+ItemDisplay[r14]: %WHITE%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%GREEN%chipped%TAN%}      %WHITE%«
+ItemDisplay[r15]: %WHITE%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%WHITE%chipped%TAN%}      %WHITE%«
+ItemDisplay[r16]: %WHITE%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%YELLOW%flawed%TAN%}      %WHITE%«
+ItemDisplay[r17]: %BLUE%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%PURPLE%flawed%TAN%}      %BLUE%«
+ItemDisplay[r18]: %BLUE%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%BLUE%flawed%TAN%}      %BLUE%«
+ItemDisplay[r19]: %BLUE%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%RED%flawed%TAN%}      %BLUE%«
+ItemDisplay[r20]: %YELLOW%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%GREEN%flawed%TAN%}      %YELLOW%«
+ItemDisplay[r21]: %YELLOW%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%WHITE%flawed%TAN%}      %YELLOW%«
+ItemDisplay[r22]: %YELLOW%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%YELLOW%topaz%TAN%}      %YELLOW%«
+ItemDisplay[r23]: %YELLOW%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%PURPLE%amethyst%TAN%} %GRAY%|%GRAY%0.1%GRAY%|      %YELLOW%«
+ItemDisplay[r24]: %YELLOW%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM%  %TAN%{%ORANGE%2%BLUE%saphire%TAN%} %GRAY%|%GRAY%0.1625%GRAY%|      %YELLOW%«
+ItemDisplay[r25]: %GOLD%»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%RED%ruby%TAN%} %GRAY%|%GRAY%0.25%GRAY%|      %GOLD%«
+ItemDisplay[r26]: %GOLD%»»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%GREEN%emerald%TAN%} %GRAY%|%GRAY%0.5%GRAY%|      %GOLD%««
+ItemDisplay[r27]: %GOLD%»»»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%WHITE%diamond%TAN%} %GRAY%|%GRAY%0.75%GRAY%|      %GOLD%«««
 ItemDisplay[r28]: %RED%»»»»»»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%YELLOW%flawless%TAN%} %GRAY%|%WHITE%1.5%GRAY%|      %RED%««««««
-ItemDisplay[r29]: %YELLOW%»»»»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%PURPLE%flawless%TAN%} %GRAY%|%WHITE%1%GRAY%|      %YELLOW%««««
+ItemDisplay[r29]: %GOLD%»»»»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%PURPLE%flawless%TAN%} %GRAY%|%WHITE%1%GRAY%|      %GOLD%««««
 ItemDisplay[r30]: %RED%»»»»»»»»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%BLUE%flawless%TAN%} %GRAY%|%WHITE%2%GRAY%|      %RED%««««««««
 ItemDisplay[r31]: %RED%»»»»»»»»»»»»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%RED%flawless%TAN%} %GRAY%|%WHITE%3%GRAY%|      %RED%««««««««««««
-ItemDisplay[r32]: %YELLOW%»»»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%GREEN%flawless%TAN%} %GRAY%|%GRAY%0.75%GRAY%|      %YELLOW%«««
-ItemDisplay[r33]: %YELLOW%»»»»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%WHITE%flawless%TAN%} %GRAY%|%WHITE%1%GRAY%|      %YELLOW%««««
+ItemDisplay[r32]: %GOLD%»»»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%GREEN%flawless%TAN%} %GRAY%|%GRAY%0.75%GRAY%|      %GOLD%«««
+ItemDisplay[r33]: %GOLD%»»»»      %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%WHITE%flawless%TAN%} %GRAY%|%WHITE%1%GRAY%|      %GOLD%««««
 //
 //╔════════════════════════╗
 //║          Gems          ║
@@ -160,9 +160,9 @@ ItemDisplay[skz]: %GRAY%perfect
 //║          Charms          ║
 //╚══════════════════════════╝
 //
-ItemDisplay[UNI !ID cm1]: %RED%Annihilus
-ItemDisplay[UNI !ID cm2]: %RED%Hellfire Torch
-ItemDisplay[UNI !ID cm3]: %RED%Gheed's Fortune
+ItemDisplay[UNI !ID cm1]: %RED%»»»»»»»» %RED%Annihilus %RED%««««««««
+ItemDisplay[UNI !ID cm2]: %RED%»»»»»» %RED%Hellfire Torch %RED%««««««
+ItemDisplay[UNI !ID cm3]: %RED%»» %RED%Gheed's Fortune %RED%««
 ItemDisplay[UNI ID cm1]: %ORANGE%Annihilus
 ItemDisplay[UNI ID cm2]: %ORANGE%Hellfire Torch
 ItemDisplay[UNI ID cm3]: %ORANGE%Gheed's Fortune
@@ -179,63 +179,63 @@ ItemDisplay[UNI rin]: %GOLD%%NAME% %WHITE%%ILVL%
 ItemDisplay[UNI !ID amu]: %RED%»»»»»»»»»»»»»»»»»» %PURPLE%UNIQUE AMULET HYPE %RED%««««««««««««««««««
 ItemDisplay[UNI amu]: %GOLD%%NAME% %WHITE%%ILVL%
 //		Helmets
-ItemDisplay[UNI !ID ghm !ETH]: %TAN%Howltusk
-ItemDisplay[UNI !ID xh9 !ETH]: %RED%Vampire Gaze
-ItemDisplay[UNI !ID xh9 ETH]: %RED%ETH Vampire Gaze
-ItemDisplay[UNI !ID uap !ETH]: %RED%Shako
-ItemDisplay[UNI !ID uap ETH]: %RED%ETH Shako
-ItemDisplay[UNI !ID ulm !ETH]: %RED%Steel Shade
-ItemDisplay[UNI !ID ulm ETH]: %RED%ETH Steel Shade
-ItemDisplay[UNI !ID uhm !ETH]: %RED%Veil of Steel or Nightwing's Veil
-ItemDisplay[UNI !ID uhm ETH]: %RED%ETH Veil of Steel or ETH Nightwing's Veil
-ItemDisplay[UNI !ID usk !ETH]: %RED%Andariel's Visage
-ItemDisplay[UNI !ID usk ETH]: %RED%ETH Andariel's Visage
-ItemDisplay[UNI !ID urn !ETH]: %RED%Crown of Ages
-ItemDisplay[UNI !ID ci3 !ETH]: %RED%%PURPLE%Griffon's Eye
+ItemDisplay[UNI !ID ghm !ETH]: %RED%» %TAN%Howltusk %RED%«
+ItemDisplay[UNI !ID xh9 !ETH]: %RED%» %RED%Vampire Gaze %RED%«
+ItemDisplay[UNI !ID xh9 ETH]: %RED%» %RED%ETH Vampire Gaze %RED%«
+ItemDisplay[UNI !ID uap !ETH]: %RED%» %RED%Shako %RED%«
+ItemDisplay[UNI !ID uap ETH]: %RED%» %RED%ETH Shako %RED%«
+ItemDisplay[UNI !ID ulm !ETH]: %RED%» %RED%Steel Shade %RED%«
+ItemDisplay[UNI !ID ulm ETH]: %RED%» %RED%ETH Steel Shade %RED%«
+ItemDisplay[UNI !ID uhm !ETH]: %RED%» %RED%Veil of Steel or Nightwing's Veil %RED%«
+ItemDisplay[UNI !ID uhm ETH]: %RED%» %RED%ETH Veil of Steel or ETH Nightwing's Veil %RED%«
+ItemDisplay[UNI !ID usk !ETH]: %RED%» %RED%Andariel's Visage %RED%«
+ItemDisplay[UNI !ID usk ETH]: %RED%» %RED%ETH Andariel's Visage %RED%«
+ItemDisplay[UNI !ID urn !ETH]: %RED%» %RED%Crown of Ages %RED%«
+ItemDisplay[UNI !ID ci3 !ETH]: %RED%» %RED%%PURPLE%Griffon's Eye %RED%«
 //		Armor
-ItemDisplay[UNI !ID xea !ETH]: %RED%Skin of the Vipermagi
-ItemDisplay[UNI !ID xrs ETH]: %RED%ETH Duriel's Shell
-ItemDisplay[UNI !ID xhn !ETH]: %RED%Shaftstop
-ItemDisplay[UNI !ID xhn ETH]: %RED%ETH Shaftstop
-ItemDisplay[UNI !ID xpl !ETH]: %RED%Skullder's Ire
-ItemDisplay[UNI !ID xpl ETH]: %RED%ETH Skullder's Ire
-ItemDisplay[UNI !ID xlt !ETH]: %RED%Guardian Angel
-ItemDisplay[UNI !ID xlt ETH]: %RED%ETH Guardian Angel
-ItemDisplay[UNI !ID uui !ETH]: %RED%Ormus' Robes
-ItemDisplay[UNI !ID uui ETH]: %RED%ETH Ormus' Robes
+ItemDisplay[UNI !ID xea !ETH]: %RED%» %RED%Skin of the Vipermagi %RED%«
+ItemDisplay[UNI !ID xrs ETH]: %RED%» %RED%ETH Duriel's Shell %RED%«
+ItemDisplay[UNI !ID xhn !ETH]: %RED%» %RED%Shaftstop %RED%«
+ItemDisplay[UNI !ID xhn ETH]: %RED%» %RED%ETH Shaftstop %RED%«
+ItemDisplay[UNI !ID xpl !ETH]: %RED%» %RED%Skullder's Ire %RED%«
+ItemDisplay[UNI !ID xpl ETH]: %RED%» %RED%ETH Skullder's Ire %RED%«
+ItemDisplay[UNI !ID xlt !ETH]: %RED%» %RED%Guardian Angel %RED%«
+ItemDisplay[UNI !ID xlt ETH]: %RED%» %RED%ETH Guardian Angel %RED%«
+ItemDisplay[UNI !ID uui !ETH]: %RED%» %RED%Ormus' Robes %RED%«
+ItemDisplay[UNI !ID uui ETH]: %RED%» %RED%ETH Ormus' Robes %RED%«
 //		Shields
-ItemDisplay[UNI !ID uit !ETH]: %RED%Stormshield
-ItemDisplay[UNI !ID uit ETH]: %RED%ETH Stormshield
-ItemDisplay[UNI !ID uow !ETH]: %RED%Medusa's Gaze
+ItemDisplay[UNI !ID uit !ETH]: %RED%» %RED%Stormshield %RED%«
+ItemDisplay[UNI !ID uit ETH]: %RED%» %RED%ETH Stormshield %RED%«
+ItemDisplay[UNI !ID uow !ETH]: %RED%» %RED%Medusa's Gaze %RED%«
 //		Gloves
-ItemDisplay[UNI !ID uvg !ETH]: %RED%Dracul's Grasp
-ItemDisplay[UNI !ID umg !ETH]: %RED%Soul Drainer
+ItemDisplay[UNI !ID uvg !ETH]: %RED%» %RED%Dracul's Grasp %RED%«
+ItemDisplay[UNI !ID umg !ETH]: %RED%» %RED%Soul Drainer %RED%«
 //		Boots
-ItemDisplay[UNI !ID xtb !ETH]: %RED%War Traveler
-ItemDisplay[UNI !ID xhb !ETH]: %RED%Gore Rider
+ItemDisplay[UNI !ID xtb !ETH]: %RED%» %RED%War Traveler %RED%«
+ItemDisplay[UNI !ID xhb !ETH]: %RED%» %RED%Gore Rider %RED%«
 //		Belts
-ItemDisplay[UNI !ID zhb !ETH]: %RED%Thundergod's Vigor
-ItemDisplay[UNI !ID ulc !ETH]: %RED%Arachnid Mesh
-ItemDisplay[UNI !ID uvc !ETH]: %RED%Nosferatu's Coil
-ItemDisplay[UNI !ID umc !ETH]: %RED%Verdungo's Hearty Cord
+ItemDisplay[UNI !ID zhb !ETH]: %RED%» %RED%Thundergod's Vigor %RED%«
+ItemDisplay[UNI !ID ulc !ETH]: %RED%» %RED%Arachnid Mesh %RED%«
+ItemDisplay[UNI !ID uvc !ETH]: %RED%» %RED%Nosferatu's Coil %RED%«
+ItemDisplay[UNI !ID umc !ETH]: %RED%» %RED%Verdungo's Hearty Cord %RED%«
 //		Weapons
-ItemDisplay[UNI !ID 6lw]: %RED%Windforce
-ItemDisplay[UNI !ID 7s8 ETH]: %RED%ETH Reaper's Toll
-ItemDisplay[UNI !ID 9st ETH]: %RED%ETH Hone Sundan
-ItemDisplay[UNI !ID 6cs !ETH]: %RED%Ondal's Wisdom
-ItemDisplay[UNI !ID 7cr]: %RED%Lightsabre or Azurewrath
-ItemDisplay[UNI !ID 7b7 ETH]: %RED%ETH Doombringer
-ItemDisplay[UNI !ID 7gd !ETH]: %RED%The Grandfather
-ItemDisplay[UNI !ID 7gd ETH]: %RED%ETH The Grandfather
-ItemDisplay[UNI !ID 7gw !ETH]: %RED%Death's Web
-ItemDisplay[UNI !ID 7bk ETH]: %RED%ETH Warshrike
-ItemDisplay[UNI !ID 7b8 ETH]: %RED%ETH Lacerator
+ItemDisplay[UNI !ID 6lw]: %RED%» %RED%Windforce %RED%«
+ItemDisplay[UNI !ID 7s8 ETH]: %RED%» %RED%ETH Reaper's Toll %RED%«
+ItemDisplay[UNI !ID 9st ETH]: %RED%» %RED%ETH Hone Sundan %RED%«
+ItemDisplay[UNI !ID 6cs !ETH]: %RED%» %RED%Ondal's Wisdom %RED%«
+ItemDisplay[UNI !ID 7cr]: %RED%» %RED%Lightsabre or Azurewrath %RED%«
+ItemDisplay[UNI !ID 7b7 ETH]: %RED%» %RED%ETH Doombringer %RED%«
+ItemDisplay[UNI !ID 7gd !ETH]: %RED%» %RED%The Grandfather %RED%«
+ItemDisplay[UNI !ID 7gd ETH]: %RED%» %RED%ETH The Grandfather %RED%«
+ItemDisplay[UNI !ID 7gw !ETH]: %RED%» %RED%Death's Web %RED%«
+ItemDisplay[UNI !ID 7bk ETH]: %RED%» %RED%ETH Warshrike %RED%«
+ItemDisplay[UNI !ID 7b8 ETH]: %RED%» %RED%ETH Lacerator %RED%«
 // 	Class Specific
-ItemDisplay[UNI !ID nea !ETH]: %RED%Homunculus
-ItemDisplay[UNI !ID baa !ETH]: %RED%Arreat's Face
-ItemDisplay[UNI !ID dra !ETH]: %RED%Jalal's Mane
-ItemDisplay[UNI !ID pa9 !ETH]: %RED%Herald of Zakarum
-ItemDisplay[UNI !ID pa9 ETH]: %RED%ETH Herald of Zakarum
+ItemDisplay[UNI !ID nea !ETH]: %RED%» %RED%Homunculus %RED%«
+ItemDisplay[UNI !ID baa !ETH]: %RED%» %RED%Arreat's Face %RED%«
+ItemDisplay[UNI !ID dra !ETH]: %RED%» %RED%Jalal's Mane %RED%«
+ItemDisplay[UNI !ID pa9 !ETH]: %RED%» %RED%Herald of Zakarum %RED%«
+ItemDisplay[UNI !ID pa9 ETH]: %RED%» %RED%ETH Herald of Zakarum %RED%«
 //
 //╔════════════════════════╗
 //║          Sets          ║
@@ -273,20 +273,18 @@ ItemDisplay[72h !ETH !RW NMAG ED>9 SOCK=3]: %RED%» %DGREEN%%NAME%%BLUE% +15%ED 
 //
 ItemDisplay[RARE EQ7 !ETH !ID]: %YELLOW%» %YELLOW%%NAME% %YELLOW%« // Circlets
 ItemDisplay[RARE amu !ID]: %RED%»» %YELLOW%%NAME% %RED%««
-ItemDisplay[RARE rin !ID]: %YELLOW%»» %YELLOW%%NAME% %YELLOW%««
 ItemDisplay[RARE jew !ID]: %RED%» %YELLOW%%NAME% %RED%«
-ItemDisplay[RARE !ID !WEAPON !CL1 !CL2 !CL3 !CL4 !CL5 !CL6 !CL7 !EQ1 !EQ2 !EQ3 !EQ5 ILVL>88]: %WHITE%» %YELLOW%%NAME% %WHITE%« // gloves and belts
-ItemDisplay[RARE !ID !CL5 ILVL>88]: %WHITE%» %YELLOW%%NAME% %WHITE%« // claws
+ItemDisplay[RARE !ID !WEAPON !CL1 !CL2 !CL3 !CL4 !CL5 !CL6 !CL7 !EQ1 !EQ2 !EQ3 !EQ5 ILVL>88]: %WHITE%» %YELLOW%%NAME% %WHITE%« // Gloves and belts
+ItemDisplay[RARE !ID !CL5 ILVL>88]: %WHITE%» %YELLOW%%NAME% %WHITE%« // Claws
 //
 //╔═════════════════════════╗
 //║          Magic          ║
 //╚═════════════════════════╝
 //
+ItemDisplay[MAG rin !ID]: %GRAY%»» %BLUE%%NAME% %GRAY%««
 ItemDisplay[MAG !ID amu ILVL>88]: %BLUE%» %BLUE%%NAME% %WHITE%%ILVL% %BLUE%«
-ItemDisplay[MAG EQ7 !ETH !ID]: %BLUE%» %BLUE%%NAME% %WHITE%%ILVL% %BLUE%« // circlets
-ItemDisplay[MAG !ID jew]: %BLUE%» %BLUE%%NAME% %WHITE%%ILVL% %BLUE%« // junker jewels
-ItemDisplay[MAG !ID !WEAPON !CL1 !CL2 !CL3 !CL4 !CL5 !CL6 !CL7 !EQ1 !EQ2 !EQ3 !EQ5 ILVL>88]: %WHITE%» %BLUE%%NAME% %WHITE%« // gloves and belts
-ItemDisplay[MAG !ID !CL5 ILVL>88]: %WHITE%» %BLUE%%NAME% %WHITE%« // claws
+ItemDisplay[MAG EQ7 !ETH !ID]: %YELLOW%» %BLUE%%NAME% %WHITE%%ILVL% %YELLOW%« // Circlets
+ItemDisplay[MAG !ID jew]: %GRAY%» %BLUE%%NAME% %WHITE%%ILVL% %GRAY%« // Jewels
 //
 //╔═════════════════════════════╗
 //║          Catch-All          ║
@@ -301,5 +299,5 @@ ItemDisplay[UNI !ID]:
 ItemDisplay[SET !ID]:
 ItemDisplay[MAG]: %NAME% %WHITE%%ILVL%
 ItemDisplay[RARE]: %NAME% %WHITE%%ILVL%
-ItemDisplay[UNI]: %NAME% %WHITE%%ILVL%
-ItemDisplay[SET]: %NAME% %WHITE%%ILVL%
+ItemDisplay[UNI]: %NAME%
+ItemDisplay[SET]: %NAME%
