@@ -8,7 +8,7 @@ Hides gold when the stash bank is full.
 
 Hides all consumables but Full Rejuvenation Potions.
 
-Runes display their number, and their abbreviated upgrade receipe.
+Runes display their number and their upgrade receipe.
 
 Rare throwing weapons, wands and class weapons are displayed if they are ilvl>80.
 
