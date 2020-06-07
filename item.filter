@@ -156,15 +156,6 @@ ItemDisplay[gpb]: %BLUE%perfect
 ItemDisplay[gpy]: %YELLOW%perfect
 ItemDisplay[skz]: %GRAY%perfect
 //
-//╔═════════════════════════╗
-//║          Rares          ║
-//╚═════════════════════════╝
-//
-ItemDisplay[RARE EQ7 !ETH !ID]: %YELLOW%» %YELLOW%%NAME% %YELLOW%« // Circlets
-ItemDisplay[RARE amu !ID]: %RED%»» %YELLOW%%NAME% %RED%««
-ItemDisplay[RARE rin !ID]: %YELLOW%»» %YELLOW%%NAME% %YELLOW%««
-ItemDisplay[RARE jew !ID]: %RED%» %YELLOW%%NAME% %RED%«
-//
 //╔══════════════════════════╗
 //║          Charms          ║
 //╚══════════════════════════╝
@@ -276,16 +267,26 @@ ItemDisplay[7ls ETH !RW NMAG ED>9 SOCK=3]: %RED%» %DGREEN%ETH %NAME%%BLUE% +15%
 ItemDisplay[7ls !ETH !RW NMAG ED>9 SOCK=3]: %RED%» %DGREEN%%NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
 ItemDisplay[72h !ETH !RW NMAG ED>9 SOCK=3]: %RED%» %DGREEN%%NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
 //
-
-//╔════════════════════════════════╗
-//║          ILVL Filters          ║
-//╚════════════════════════════════╝
+//╔═════════════════════════╗
+//║          Rares          ║
+//╚═════════════════════════╝
+//
+ItemDisplay[RARE EQ7 !ETH !ID]: %YELLOW%» %YELLOW%%NAME% %YELLOW%« // Circlets
+ItemDisplay[RARE amu !ID]: %RED%»» %YELLOW%%NAME% %RED%««
+ItemDisplay[RARE rin !ID]: %YELLOW%»» %YELLOW%%NAME% %YELLOW%««
+ItemDisplay[RARE jew !ID]: %RED%» %YELLOW%%NAME% %RED%«
+ItemDisplay[RARE !ID !WEAPON !CL1 !CL2 !CL3 !CL4 !CL5 !CL6 !CL7 !EQ1 !EQ2 !EQ3 !EQ5 ILVL>88]: %WHITE%» %YELLOW%%NAME% %WHITE%« // gloves and belts
+ItemDisplay[RARE !ID !CL5 ILVL>88]: %WHITE%» %YELLOW%%NAME% %WHITE%« // claws
+//
+//╔═════════════════════════╗
+//║          Magic          ║
+//╚═════════════════════════╝
 //
 ItemDisplay[MAG !ID amu ILVL>88]: %BLUE%» %BLUE%%NAME% %WHITE%%ILVL% %BLUE%«
-ItemDisplay[MAG EQ7 !ETH !ID]: %BLUE%» %BLUE%%NAME% %WHITE%%ILVL% %BLUE%«
-ItemDisplay[MAG !ID jew]: %BLUE%» %BLUE%%NAME% %WHITE%%ILVL% %BLUE%«
-ItemDisplay[RARE !ID !WEAPON !CL1 !CL2 !CL3 !CL4 !CL5 !CL6 !CL7 !EQ1 !EQ2 !EQ3 !EQ5 ILVL>88]: %WHITE%» %YELLOW%%NAME% %WHITE%« // gloves and belts
+ItemDisplay[MAG EQ7 !ETH !ID]: %BLUE%» %BLUE%%NAME% %WHITE%%ILVL% %BLUE%« // circlets
+ItemDisplay[MAG !ID jew]: %BLUE%» %BLUE%%NAME% %WHITE%%ILVL% %BLUE%« // junker jewels
 ItemDisplay[MAG !ID !WEAPON !CL1 !CL2 !CL3 !CL4 !CL5 !CL6 !CL7 !EQ1 !EQ2 !EQ3 !EQ5 ILVL>88]: %WHITE%» %BLUE%%NAME% %WHITE%« // gloves and belts
+ItemDisplay[MAG !ID !CL5 ILVL>88]: %WHITE%» %BLUE%%NAME% %WHITE%« // claws
 //
 //╔═════════════════════════════╗
 //║          Catch-All          ║
@@ -302,4 +303,3 @@ ItemDisplay[MAG]: %NAME% %WHITE%%ILVL%
 ItemDisplay[RARE]: %NAME% %WHITE%%ILVL%
 ItemDisplay[UNI]: %NAME% %WHITE%%ILVL%
 ItemDisplay[SET]: %NAME% %WHITE%%ILVL%
-//
