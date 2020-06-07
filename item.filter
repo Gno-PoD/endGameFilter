@@ -275,7 +275,7 @@ ItemDisplay[RARE EQ7 !ETH !ID]: %YELLOW%» %YELLOW%%NAME% %YELLOW%« // Circlets
 ItemDisplay[RARE amu !ID]: %RED%»» %YELLOW%%NAME% %RED%««
 ItemDisplay[RARE jew !ID]: %RED%» %YELLOW%%NAME% %RED%«
 ItemDisplay[RARE !ID !WEAPON !CL1 !CL2 !CL3 !CL4 !CL5 !CL6 !CL7 !EQ1 !EQ2 !EQ3 !EQ5 ILVL>88]: %WHITE%» %YELLOW%%NAME% %WHITE%« // Gloves and belts
-ItemDisplay[RARE !ID !CL5 ILVL>88]: %WHITE%» %YELLOW%%NAME% %WHITE%« // Claws
+ItemDisplay[RARE !ID CL5 WP6 ILVL>88]: %WHITE%» %YELLOW%%NAME% %WHITE%« // Claws
 //
 //╔═════════════════════════╗
 //║          Magic          ║
