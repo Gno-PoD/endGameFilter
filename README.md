@@ -10,7 +10,7 @@ Hides all consumables but Full Rejuvenation Potions.
 
 Runes display their number, their upgrade receipe, and relative trade value.
 
-Rare gloves, belts, and claws are displayed if they are ilvl>88.
+Rare gloves, belts, claws, and javelins are displayed if they are ilvl>88.
 
 All circlets and jewels are displayed.
 
