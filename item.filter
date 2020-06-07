@@ -60,7 +60,7 @@ ItemDisplay[bey]: %WHITE%Baal%GRAY%'%RED%s %YELLOW%Eye
 ItemDisplay[mbr]: %TAN%Mephisto%GRAY%'%RED%s %GRAY%Brain
 //		Body Parts
 ItemDisplay[ear]: %TAN%%NAME%%GRAY%'%RED%s *TAN*Ear
-ItemDisplay[leg]: %TAN%Wirt%GRAY%'%RED%s %TAN%Leg %GRAY%{%BLUE%Tome%GRAY%}
+ItemDisplay[leg]: %TAN%Wirt%GRAY%'%RED%s %TAN%Leg %TAN%{%BLUE%Tome%TAN%}
 //		Quest Items
 ItemDisplay[bbb]: %NAME% %RED%[Quest]
 ItemDisplay[ass]: %NAME% %RED%[Quest]
