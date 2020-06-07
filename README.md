@@ -14,7 +14,7 @@ Rare throwing weapons, wands and class weapons are displayed if they are ILVL>89
 
 All rare circlets are displayed.
 
-Magic jewels, rings, amulets are displayed if they are ILVL>89.
+Magic rings and amulets are displayed if they are ILVL>89, jewels if they are ILVL>80.
 
 Magic Small Charms and Grand Charms have their ilvl represented in their name.
 
