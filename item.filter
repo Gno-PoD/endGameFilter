@@ -263,26 +263,26 @@ ItemDisplay[SET !ID uhm]: %RED%» %GREEN%Ondal's Almighty %RED%«
 //╚══════════════════════════════════╝
 //
 ItemDisplay[RW]: %NAME% %GRAY%[%SOCKETS%]
-ItemDisplay[NMAG ETH !RW !SOCK=1 ED=15 xtp]: %RED%» %DGREEN%ETH %NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
-ItemDisplay[NMAG ETH !RW !SOCK=1 ED=15 uui]: %RED%» %DGREEN%ETH %NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
-ItemDisplay[NMAG ETH !RW !SOCK=1 ED=15 uea]: %RED%» %DGREEN%ETH %NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
-ItemDisplay[NMAG ETH !RW !SOCK=1 ED=15 utu]: %RED%» %DGREEN%ETH %NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
-ItemDisplay[NMAG ETH !RW !SOCK=1 ED=15 utp]: %RED%» %DGREEN%ETH %NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
-ItemDisplay[NMAG !ETH !RW !SOCK=1 ED=15 xtp]: %RED%» %DGREEN%%NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
-ItemDisplay[NMAG !ETH !RW !SOCK=1 ED=15 utp]: %RED%» %DGREEN%%NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
-ItemDisplay[urg !RW NMAG ED=15 (SOCK=3 OR SOCK=0)]: %RED%» %DGREEN%%NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
-ItemDisplay[7cr !RW NMAG ED=15 SOCK=6]: %RED%» %DGREEN%%NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
-ItemDisplay[7ls ETH !RW NMAG ED=15 SOCK=3]: %RED%» %DGREEN%ETH %NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
-ItemDisplay[7ls !ETH !RW NMAG ED=15 SOCK=3]: %RED%» %DGREEN%%NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
-ItemDisplay[72h !ETH !RW NMAG ED=15 SOCK=3]: %RED%» %DGREEN%%NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
+ItemDisplay[NMAG ETH !RW !SOCK=1 ED>9 xtp]: %RED%» %DGREEN%ETH %NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
+ItemDisplay[NMAG ETH !RW !SOCK=1 ED>9 uui]: %RED%» %DGREEN%ETH %NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
+ItemDisplay[NMAG ETH !RW !SOCK=1 ED>9 uea]: %RED%» %DGREEN%ETH %NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
+ItemDisplay[NMAG ETH !RW !SOCK=1 ED>9 utu]: %RED%» %DGREEN%ETH %NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
+ItemDisplay[NMAG ETH !RW !SOCK=1 ED>9 utp]: %RED%» %DGREEN%ETH %NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
+ItemDisplay[NMAG !ETH !RW !SOCK=1 ED>9 xtp]: %RED%» %DGREEN%%NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
+ItemDisplay[NMAG !ETH !RW !SOCK=1 ED>9 utp]: %RED%» %DGREEN%%NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
+ItemDisplay[urg !RW NMAG ED>9 (SOCK=3 OR SOCK=0)]: %RED%» %DGREEN%%NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
+ItemDisplay[7cr !RW NMAG ED>9 SOCK=6]: %RED%» %DGREEN%%NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
+ItemDisplay[7ls ETH !RW NMAG ED>9 SOCK=3]: %RED%» %DGREEN%ETH %NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
+ItemDisplay[7ls !ETH !RW NMAG ED>9 SOCK=3]: %RED%» %DGREEN%%NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
+ItemDisplay[72h !ETH !RW NMAG ED>9 SOCK=3]: %RED%» %DGREEN%%NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
 //
 
 //╔════════════════════════════════╗
 //║          ILVL Filters          ║
 //╚════════════════════════════════╝
 //
-ItemDisplay[MAG !ID amu ILVL>89]: %BLUE%» %BLUE%%NAME% %BLUE%«
-ItemDisplay[MAG !ID rin ILVL>89]: %BLUE%» %BLUE%%NAME% %BLUE%«
+ItemDisplay[MAG !ID amu ILVL>89]: %BLUE%» %BLUE%%NAME% %WHITE%%ILVL% %BLUE%«
+ItemDisplay[MAG !ID rin ILVL>89]: %BLUE%» %BLUE%%NAME% %WHITE%%ILVL% %BLUE%«
 ItemDisplay[MAG !ID jew ILVL>80]: %BLUE%» %BLUE%%NAME% %WHITE%%ILVL% %BLUE%«
 ItemDisplay[RARE !ID !WP1 !WP2 !WP3 !WP4 !WP7 !WP8 !WP9 !WP10 !WP11 !WP13 !ARMOR ILVL>80]: %YELLOW%» %YELLOW%%NAME% %YELLOW%« // Only throwing weapons, wands and class weapons
 //
@@ -297,8 +297,8 @@ ItemDisplay[MAG !ID]:
 ItemDisplay[RARE !ID]:
 ItemDisplay[UNI !ID]:
 ItemDisplay[SET !ID]:
-ItemDisplay[MAG]: %NAME%
-ItemDisplay[RARE]: %NAME%
-ItemDisplay[UNI]: %NAME%
-ItemDisplay[SET]: %NAME%
+ItemDisplay[MAG]: %NAME% %WHITE%%ILVL%
+ItemDisplay[RARE]: %NAME% %WHITE%%ILVL%
+ItemDisplay[UNI]: %NAME% %WHITE%%ILVL%
+ItemDisplay[SET]: %NAME% %WHITE%%ILVL%
 //
