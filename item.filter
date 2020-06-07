@@ -139,7 +139,7 @@ ItemDisplay[gsw]: %WHITE%diamond
 ItemDisplay[gsg]: %GREEN%emerald
 ItemDisplay[gsr]: %RED%ruby
 ItemDisplay[gsb]: %BLUE%sapphire
-ItemDisplay[gsy]: %YELLOW%topa
+ItemDisplay[gsy]: %YELLOW%topaz
 ItemDisplay[sku]: %GRAY%skull
 ItemDisplay[gzv]: %PURPLE%flawless
 ItemDisplay[glw]: %WHITE%flawless
