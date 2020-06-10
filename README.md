@@ -22,4 +22,4 @@ Valuable set items only.
 
 10-15% ED Runeword bases only.
 
-Anirml's Crafting Ring and Amulet filtration.
+Anirml's Crafting Ring and Amulet filters with modified styling.
