@@ -301,14 +301,6 @@ ItemDisplay[RARE jew !ID]: %RED%▒ %YELLOW%%NAME% %RED%▒
 ItemDisplay[RARE !ID !WEAPON !CL1 !CL2 !CL3 !CL4 !CL5 !CL6 !CL7 !EQ1 !EQ2 !EQ3 !EQ5 ILVL>88]: %YELLOW%%NAME%
 ItemDisplay[RARE !ID CL5 WP6 ILVL>88]: %YELLOW%%NAME%
 //
-//╔════════════════════════════╗
-//║          Crafting          ║
-//╚════════════════════════════╝
-//
-ItemDisplay[MAG !ID EQ4 ILVL>71]: %TAN%▒ %BLUE%%NAME% %WHITE%%ILVL% %TAN%▒
-ItemDisplay[MAG !ID EQ5 ILVL>71]: %TAN%▒ %BLUE%%NAME% %WHITE%%ILVL% %TAN%▒
-ItemDisplay[MAG !ID EQ6 ILVL>71]: %TAN%▒ %BLUE%%NAME% %WHITE%%ILVL% %TAN%▒
-//
 //╔═══════════════════════════════════════════════════════════════╗
 //║          Anirml's Crafting Codes <3 (modified style)          ║
 //╚═══════════════════════════════════════════════════════════════╝
