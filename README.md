@@ -21,3 +21,5 @@ Valuable unique items only.
 Valuable set items only.
 
 10-15% ED Runeword bases only.
+
+Anirml's Crafting Ring and Amulet filtration.
