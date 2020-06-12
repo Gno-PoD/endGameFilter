@@ -344,84 +344,84 @@ ItemDisplay[MAG amu TABSK50=3]: %NAME% %WHITE%%ILVL% +3 Martial
 //ItemDisplay[MAG amu !ID ILVL<88]:
 //
 //			Ilvl 84+ Clvl 96+
-ItemDisplay[MAG amu !ID ILVL>83 AND CLV>95]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %GRAY%| %BLUE%Caster%TAN%}
+ItemDisplay[MAG amu !ID ILVL>83 AND CLV>95]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster%TAN%}
 ItemDisplay[MAG amu !ID ILVL<84 AND CLVL>95]: %NAME% %WHITE%%ILVL%
-ItemDisplay[MAG amu ID ILVL>83 AND CLVL>95]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %ORANGE%Thul%GREEN%Perfect%BLUE%Jewel %GRAY%| %BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
+ItemDisplay[MAG amu ID ILVL>83 AND CLVL>95]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
 ItemDisplay[MAG amu ID ILVL<84 AND CLVL>95]: %NAME% %WHITE%%ILVL%
 //		Ilvl 85+ Clvl 95
-ItemDisplay[MAG amu !ID ILVL>84 AND CLVL=95]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %GRAY%| %BLUE%Caster%TAN%}
+ItemDisplay[MAG amu !ID ILVL>84 AND CLVL=95]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster%TAN%}
 ItemDisplay[MAG amu !ID ILVL<85 AND CLVL=95]: %NAME% %WHITE%%ILVL%
-ItemDisplay[MAG amu ID ILVL>84 AND CLVL=95]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %ORANGE%Thul%GREEN%Perfect%BLUE%Jewel %GRAY%| %BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
+ItemDisplay[MAG amu ID ILVL>84 AND CLVL=95]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
 ItemDisplay[MAG amu ID ILVL<85 AND CLVL=95]: %NAME% %WHITE%%ILVL%
 //		Ilvl 86+ Clvl 94
-ItemDisplay[MAG amu !ID ILVL>85 AND CLVL=94]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %GRAY%| %BLUE%Caster%TAN%}
+ItemDisplay[MAG amu !ID ILVL>85 AND CLVL=94]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster%TAN%}
 ItemDisplay[MAG amu !ID ILVL<86 AND CLVL=94]: %NAME% %WHITE%%ILVL%
-ItemDisplay[MAG amu ID ILVL>85 AND CLVL=94]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %ORANGE%Thul%GREEN%Perfect%BLUE%Jewel %GRAY%| %BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
+ItemDisplay[MAG amu ID ILVL>85 AND CLVL=94]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
 ItemDisplay[MAG amu ID ILVL<86 AND CLVL=94]: %NAME% %WHITE%%ILVL%
 //		Ilvl 87+ Clvl 93
-ItemDisplay[MAG amu !ID ILVL>86 AND CLV=93]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %GRAY%| %BLUE%Caster%TAN%}
+ItemDisplay[MAG amu !ID ILVL>86 AND CLV=93]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster%TAN%}
 ItemDisplay[MAG amu !ID ILVL<87 AND CLVL=93]: %NAME% %WHITE%%ILVL%
-ItemDisplay[MAG amu ID ILVL>86 AND CLVL=93]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %ORANGE%Thul%GREEN%Perfect%BLUE%Jewel %GRAY%| %BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
+ItemDisplay[MAG amu ID ILVL>86 AND CLVL=93]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
 ItemDisplay[MAG amu ID ILVL<87 AND CLVL=93]: %NAME% %WHITE%%ILVL%
 //		Ilvl 88+ Clvl 92
-ItemDisplay[MAG amu !ID ILVL>87 AND CLVL=92]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %GRAY%| %BLUE%Caster%TAN%}
+ItemDisplay[MAG amu !ID ILVL>87 AND CLVL=92]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster%TAN%}
 ItemDisplay[MAG amu !ID ILVL<88 AND CLVL=92]: %NAME% %WHITE%%ILVL%
-ItemDisplay[MAG amu ID ILVL>87 AND CLVL=92]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %ORANGE%Thul%GREEN%Perfect%BLUE%Jewel %GRAY%| %BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
+ItemDisplay[MAG amu ID ILVL>87 AND CLVL=92]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
 ItemDisplay[MAG amu ID ILVL<88 AND CLVL=92]: %NAME% %WHITE%%ILVL%
 //		Ilvl 89+ Clvl 91
-ItemDisplay[MAG amu !ID ILVL>88 AND CLVL=91]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %GRAY%| %BLUE%Caster%TAN%}
+ItemDisplay[MAG amu !ID ILVL>88 AND CLVL=91]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster%TAN%}
 ItemDisplay[MAG amu !ID ILVL<89 AND CLVL=91]: %NAME% %WHITE%%ILVL%
-ItemDisplay[MAG amu ID ILVL>88 AND CLVL=91]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %ORANGE%Thul%GREEN%Perfect%BLUE%Jewel %GRAY%| %BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
+ItemDisplay[MAG amu ID ILVL>88 AND CLVL=91]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
 ItemDisplay[MAG amu ID ILVL<89 AND CLVL=91]: %NAME% %WHITE%%ILVL%
 //		Ilvl 90+ Clvl 90
-ItemDisplay[MAG amu !ID ILVL>89 AND CLVL=90]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %GRAY%| %BLUE%Caster%TAN%}
+ItemDisplay[MAG amu !ID ILVL>89 AND CLVL=90]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster%TAN%}
 ItemDisplay[MAG amu !ID ILVL<90 AND CLVL=90]: %NAME% %WHITE%%ILVL%
-ItemDisplay[MAG amu ID ILVL>89 AND CLVL=90]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %ORANGE%Thul%GREEN%Perfect%BLUE%Jewel %GRAY%| %BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
+ItemDisplay[MAG amu ID ILVL>89 AND CLVL=90]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
 ItemDisplay[MAG amu ID ILVL<90 AND CLVL=90]: %NAME% %WHITE%%ILVL%
 //		Ilvl 91+ Clvl 89
-ItemDisplay[MAG amu !ID ILVL>90 AND CLVL=89]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %GRAY%| %BLUE%Caster%TAN%}
+ItemDisplay[MAG amu !ID ILVL>90 AND CLVL=89]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster%TAN%}
 ItemDisplay[MAG amu !ID ILVL<91 AND CLVL=89]: %NAME% %WHITE%%ILVL%
-ItemDisplay[MAG amu ID ILVL>90 AND CLVL=89]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %ORANGE%Thul%GREEN%Perfect%BLUE%Jewel %GRAY%| %BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
+ItemDisplay[MAG amu ID ILVL>90 AND CLVL=89]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
 ItemDisplay[MAG amu ID ILVL<91 AND CLVL=89]: %NAME% %WHITE%%ILVL%
 //		Ilvl 92+ Clvl 88
-ItemDisplay[MAG amu !ID ILVL>91 AND CLVL=88]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %GRAY%| %BLUE%Caster%TAN%}
+ItemDisplay[MAG amu !ID ILVL>91 AND CLVL=88]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster%TAN%}
 ItemDisplay[MAG amu !ID ILVL<92 AND CLVL=88]: %NAME% %WHITE%%ILVL%
-ItemDisplay[MAG amu ID ILVL>91 AND CLVL=88]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %ORANGE%Thul%GREEN%Perfect%BLUE%Jewel %GRAY%| %BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
+ItemDisplay[MAG amu ID ILVL>91 AND CLVL=88]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
 ItemDisplay[MAG amu ID ILVL<92 AND CLVL=88]: %NAME% %WHITE%%ILVL%
 //		Ilvl 93+ Clvl 87
-ItemDisplay[MAG amu !ID ILVL>92 AND CLVL=87]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %GRAY%| %BLUE%Caster%TAN%}
+ItemDisplay[MAG amu !ID ILVL>92 AND CLVL=87]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster%TAN%}
 ItemDisplay[MAG amu !ID ILVL<93 AND CLVL=87]: %NAME% %WHITE%%ILVL%
-ItemDisplay[MAG amu ID ILVL>92 AND CLVL=87]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %ORANGE%Thul%GREEN%Perfect%BLUE%Jewel %GRAY%| %BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
+ItemDisplay[MAG amu ID ILVL>92 AND CLVL=87]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
 ItemDisplay[MAG amu ID ILVL<93 AND CLVL=87]: %NAME% %WHITE%%ILVL%
 //		Ilvl 94+ Clvl 86
-ItemDisplay[MAG amu !ID ILVL>93 AND CLVL=86]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %GRAY%| %BLUE%Caster%TAN%}
+ItemDisplay[MAG amu !ID ILVL>93 AND CLVL=86]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster%TAN%}
 ItemDisplay[MAG amu !ID ILVL<94 AND CLVL=86]: %NAME% %WHITE%%ILVL%
-ItemDisplay[MAG amu ID ILVL>93 AND CLVL=86]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %ORANGE%Thul%GREEN%Perfect%BLUE%Jewel %GRAY%| %BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
+ItemDisplay[MAG amu ID ILVL>93 AND CLVL=86]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
 ItemDisplay[MAG amu ID ILVL<94 AND CLVL=86]: %NAME% %WHITE%%ILVL%
 //		Ilvl 95+ Clvl 85
-ItemDisplay[MAG amu !ID ILVL>94 AND CLVL=85]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %GRAY%| %BLUE%Caster%TAN%}
+ItemDisplay[MAG amu !ID ILVL>94 AND CLVL=85]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%%BLUE%Caster%TAN%}
 ItemDisplay[MAG amu !ID ILVL<95 AND CLVL=85]: %NAME% %WHITE%%ILVL%
-ItemDisplay[MAG amu ID ILVL>94 AND CLVL=85]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %ORANGE%Thul%GREEN%Perfect%BLUE%Jewel %GRAY%| %BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
+ItemDisplay[MAG amu ID ILVL>94 AND CLVL=85]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
 ItemDisplay[MAG amu ID ILVL<95 AND CLVL=85]: %NAME% %WHITE%%ILVL%
 //		Ilvl 96+ Clvl 84
-ItemDisplay[MAG amu !ID ILVL>95 AND CLVL=84]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %GRAY%| %BLUE%Caster%TAN%}
+ItemDisplay[MAG amu !ID ILVL>95 AND CLVL=84]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster%TAN%}
 ItemDisplay[MAG amu !ID ILVL<96 AND CLVL=84]: %NAME% %WHITE%%ILVL%
-ItemDisplay[MAG amu ID ILVL>95 AND CLVL=84]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %ORANGE%Thul%GREEN%Perfect%BLUE%Jewel %GRAY%| %BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
+ItemDisplay[MAG amu ID ILVL>95 AND CLVL=84]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
 ItemDisplay[MAG amu ID ILVL<96 AND CLVL=84]: %NAME% %WHITE%%ILVL%
 //		Ilvl 97+ Clvl 83
-ItemDisplay[MAG amu !ID ILVL>96 AND CLVL=83]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %GRAY%| %BLUE%Caster%TAN%}
+ItemDisplay[MAG amu !ID ILVL>96 AND CLVL=83]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%%BLUE%Caster%TAN%}
 ItemDisplay[MAG amu !ID ILVL<97 AND CLVL=83]: %NAME% %WHITE%%ILVL%
-ItemDisplay[MAG amu ID ILVL>96 AND CLVL=83]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %ORANGE%Thul%GREEN%Perfect%BLUE%Jewel %GRAY%| %BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
+ItemDisplay[MAG amu ID ILVL>96 AND CLVL=83]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
 ItemDisplay[MAG amu ID ILVL<97 AND CLVL=83]: %NAME% %WHITE%%ILVL%
 //		Ilvl 98+ Clvl 82
-ItemDisplay[MAG amu !ID ILVL>97 AND CLVL=82]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %GRAY%| %BLUE%Caster%TAN%}
+ItemDisplay[MAG amu !ID ILVL>97 AND CLVL=82]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster%TAN%}
 ItemDisplay[MAG amu !ID ILVL<98 AND CLVL=82]: %NAME% %WHITE%%ILVL%
-ItemDisplay[MAG amu ID ILVL>97 AND CLVL=82]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %ORANGE%Thul%GREEN%Perfect%BLUE%Jewel %GRAY%| %BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
+ItemDisplay[MAG amu ID ILVL>97 AND CLVL=82]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
 ItemDisplay[MAG amu ID ILVL<98 AND CLVL=82]: %NAME% %WHITE%%ILVL%
 //		Ilvl 99+ Clvl 81
-ItemDisplay[MAG amu !ID ILVL>98 AND CLVL=81]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %GRAY%| %BLUE%Caster%TAN%}
+ItemDisplay[MAG amu !ID ILVL>98 AND CLVL=81]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster%TAN%}
 ItemDisplay[MAG amu !ID ILVL<99 AND CLVL=81]: %NAME% %WHITE%%ILVL%
-ItemDisplay[MAG amu ID ILVL>98 AND CLVL=81]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%DGREEN%Safety %ORANGE%Thul%GREEN%Perfect%BLUE%Jewel %GRAY%| %BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
+ItemDisplay[MAG amu ID ILVL>98 AND CLVL=81]: %BLUE%%NAME% %WHITE%%ILVL% %TAN%{%BLUE%Caster %ORANGE%Ral%PURPLE%Perfect%BLUE%Jewel%TAN%}
 ItemDisplay[MAG amu ID ILVL<99 AND CLVL=81]: %NAME% %WHITE%%ILVL%
 //		Clvl 80 and below
 ItemDisplay[MAG amu !ID ILVL>70 AND CLVL<81]:
@@ -658,7 +658,7 @@ ItemDisplay[MAG !ID]:
 ItemDisplay[RARE !ID]:
 ItemDisplay[UNI !ID]:
 ItemDisplay[SET !ID]:
-ItemDisplay[MAG]: %NAME% %WHITE%%ILVL%
+ItemDisplay[MAG]:
 ItemDisplay[RARE]: %NAME% %WHITE%%ILVL%
 ItemDisplay[UNI]: %NAME%
 ItemDisplay[SET]: %NAME%
