@@ -141,17 +141,17 @@ ItemDisplay[gsr]: %RED%ruby
 ItemDisplay[gsb]: %BLUE%sapphire
 ItemDisplay[gsy]: %YELLOW%topaz
 ItemDisplay[sku]: %GRAY%skull
-ItemDisplay[gzv]: %PURPLE%flawless %TAN%{%ORANGE%Caster %BLUE%Amulet %GRAY%| %BLUE%Belt %GRAY%| %BLUE%Boots%TAN%}
+ItemDisplay[gzv]: %PURPLE%flawless %TAN%{%ORANGE%Caster}
 ItemDisplay[glw]: %WHITE%flawless
 ItemDisplay[glg]: %GREEN%flawless
-ItemDisplay[glr]: %RED%flawless %TAN%{%ORANGE%Blood %BLUE%Ring %GRAY%| %BLUE%Gloves %GRAY%| %BLUE%Belt%TAN%}
+ItemDisplay[glr]: %RED%flawless %TAN%{%ORANGE%Blood}
 ItemDisplay[glb]: %BLUE%flawless
 ItemDisplay[gly]: %YELLOW%flawless
 ItemDisplay[skl]: %GRAY%flawless
-ItemDisplay[gpv]: %PURPLE%perfect %TAN%{%ORANGE%Caster %BLUE%Amulet %GRAY%| %BLUE%Belt %GRAY%| %BLUE%Boots%TAN%}
+ItemDisplay[gpv]: %PURPLE%perfect %TAN%{%ORANGE%Caster}
 ItemDisplay[gpw]: %WHITE%perfect
 ItemDisplay[gpg]: %GREEN%perfect
-ItemDisplay[gpr]: %RED%perfect %TAN%{%ORANGE%Blood %BLUE%Ring %GRAY%| %BLUE%Gloves %GRAY%| %BLUE%Belt%TAN%}
+ItemDisplay[gpr]: %RED%perfect %TAN%{%ORANGE%Blood}
 ItemDisplay[gpb]: %BLUE%perfect
 ItemDisplay[gpy]: %YELLOW%perfect
 ItemDisplay[skz]: %GRAY%perfect
