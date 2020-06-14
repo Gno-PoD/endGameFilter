@@ -89,11 +89,11 @@ ItemDisplay[r04]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}
 ItemDisplay[r05]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}
 ItemDisplay[r06]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}
 ItemDisplay[r07]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}
-ItemDisplay[r08]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}
+ItemDisplay[r08]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN% %GRAY%| %ORANGE%Caster Amulet}
 ItemDisplay[r09]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}
 ItemDisplay[r10]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%YELLOW%chipped%TAN%}
-ItemDisplay[r11]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%PURPLE%chipped%TAN% %GRAY%| %ORANGE%Caster}
-ItemDisplay[r12]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%BLUE%chipped%TAN% %GRAY%| %ORANGE%Blood}
+ItemDisplay[r11]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%PURPLE%chipped%TAN% %GRAY%| %ORANGE%Blood Amulet %GRAY%| %ORANGE%Caster Ring}
+ItemDisplay[r12]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%BLUE%chipped%TAN% %GRAY%| %ORANGE%Blood Ring}
 ItemDisplay[r13]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%RED%chipped%TAN%}
 ItemDisplay[r14]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%GREEN%chipped%TAN%}
 ItemDisplay[r15]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%WHITE%chipped%TAN%}
@@ -106,15 +106,15 @@ ItemDisplay[r21]: %GRAY%» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%W
 ItemDisplay[r22]: %GRAY%» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%YELLOW%topaz%TAN%} %GRAY%«
 ItemDisplay[r23]: %GRAY%» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%PURPLE%amethyst%TAN%} %GRAY%|0.1| %GRAY%«
 ItemDisplay[r24]: %GRAY%» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%BLUE%saphire%TAN%} %GRAY%|0.1625| %GRAY%«
-ItemDisplay[r25]: %WHITE%» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%RED%ruby%TAN%} %GRAY%|0.25| %WHITE%«
-ItemDisplay[r26]: %BLUE%» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%GREEN%emerald%TAN%} %GRAY%|0.5| %BLUE%«
-ItemDisplay[r27]: %YELLOW%» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%WHITE%diamond%TAN%} %GRAY%|0.75| %YELLOW%«
-ItemDisplay[r28]: %GOLD%»%BLUE%» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%YELLOW%flawless%TAN%} %GRAY%|1.5| %BLUE%«%GOLD%«
-ItemDisplay[r29]: %GOLD%» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%PURPLE%flawless%TAN%} %GRAY%|1| %GOLD%«
-ItemDisplay[r30]: %GOLD%»» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%BLUE%flawless%TAN%} %GRAY%|2| %GOLD%««
-ItemDisplay[r31]: %GOLD%»»»%WHITE%» ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%RED%flawless%TAN%} %GRAY%|3.25| %WHITE%«%GOLD%«««
-ItemDisplay[r32]: %GOLD%» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%GREEN%flawless%TAN%} %GRAY%|1| %GOLD%«
-ItemDisplay[r33]: %GOLD%» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%WHITE%flawless%TAN%} %GRAY%|1| %GOLD%«
+ItemDisplay[r25]: %RED%»»»»»»» %WHITE%» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%RED%ruby%TAN%} %GRAY%|0.25| %WHITE%«
+ItemDisplay[r26]: %RED%»»»»»»» %BLUE%» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%GREEN%emerald%TAN%} %GRAY%|0.5| %BLUE%«
+ItemDisplay[r27]: %RED%»»»»»»»»»»»»»» %YELLOW%» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%WHITE%diamond%TAN%} %GRAY%|0.75| %YELLOW%« %RED%««««««««««««««
+ItemDisplay[r28]: %RED%»»»»»»»»»»»»»» %GOLD%»%BLUE%» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%YELLOW%flawless%TAN%} %GRAY%|1.5| %BLUE%«%GOLD%« %RED%««««««««««««««
+ItemDisplay[r29]: %RED%»»»»»»»»»»»»»» %GOLD%» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%PURPLE%flawless%TAN%} %GRAY%|1| %GOLD%« %RED%««««««««««««««
+ItemDisplay[r30]: %RED%»»»»»»»»»»»»»»»»»»»»»»»»»»»»  %GOLD%»» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%BLUE%flawless%TAN%} %GRAY%|2| %GOLD%«« %RED%««««««««««««««««««««««««««««
+ItemDisplay[r31]: %RED%»»»»»»»»»»»»»»»»»»»»»»»»»»»»««««««««««««««  %GOLD%»»»%WHITE%» ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%RED%flawless%TAN%} %GRAY%|3.25| %WHITE%«%GOLD%««« %RED%««««««««««««««««««««««««««««««««««««««««««
+ItemDisplay[r32]: %RED%»»»»»»»»»»»»»» %GOLD%» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%GREEN%flawless%TAN%} %GRAY%|1| %GOLD%« %RED%««««««««««««««
+ItemDisplay[r33]: %RED%»»»»»»»»»»»»»» %GOLD%» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%2%WHITE%flawless%TAN%} %GRAY%|1| %GOLD%« %RED%««««««««««««««
 //
 //╔════════════════════════╗
 //║          Gems          ║
@@ -174,132 +174,97 @@ ItemDisplay[cm3]: %NAME% %WHITE%%ILVL%// Grand Charms
 //╚═══════════════════════════╝
 //
 //		Rings & Amulets
-ItemDisplay[UNI !ID rin]: %RED%»»»»»»»  %PURPLE%UNIQUE %GOLD%RING %PURPLE%HYPE %RED%«««««««
+ItemDisplay[UNI !ID rin]: %RED%»»»»»»»»»»»»»»  %PURPLE%UNIQUE %GOLD%RING %PURPLE%HYPE %RED%««««««««««««««
 ItemDisplay[UNI rin]: %GOLD%%NAME% %WHITE%%ILVL%
-ItemDisplay[UNI !ID amu]: %RED%»»»»»»» %PURPLE%UNIQUE %GOLD%AMULET %PURPLE%HYPE %RED%«««««««
+ItemDisplay[UNI !ID amu]: %RED%»»»»»»»»»»»»»» %PURPLE%UNIQUE %GOLD%AMULET %PURPLE%HYPE %RED%««««««««««««««
 ItemDisplay[UNI amu]: %GOLD%%NAME% %WHITE%%ILVL%
 //		Helmets
-ItemDisplay[UNI !ID uap !ETH]: %RED%» %PURPLE%Harlequin Crest %RED%«
-ItemDisplay[UNI !ID ulm !ETH]: %RED%» %PURPLE%Steel Shade %RED%«
-ItemDisplay[UNI !ID uhm !ETH]: %RED%» Veil of Steel | Nightwing's Veil %RED%«
-ItemDisplay[UNI !ID usk !ETH]: %RED%» %PURPLE%Andariel's Visage %RED%«
-ItemDisplay[UNI !ID urn !ETH]: %RED%» Crown of Ages %RED%«
-ItemDisplay[UNI !ID xh9 !ETH]: %RED%» %PURPLE%Vampire Gaze %RED%«
-ItemDisplay[UNI !ID dra !ETH]: %RED%» %PURPLE%Jalal's Mane %RED%«
-ItemDisplay[UNI !ID ci2 !ETH]: %RED%» Kira's Guardian %RED%«
-ItemDisplay[UNI !ID ci3 !ETH]: %RED%» %PURPLE%Griffon's Eye %RED%«
+ItemDisplay[UNI !ID uap !ETH]: %RED%» %GOLD%Harlequin Crest %RED%«
+ItemDisplay[UNI !ID ulm !ETH]: %RED%» %GOLD%Steel Shade %RED%«
+ItemDisplay[UNI !ID ulm ETH]: %RED%»»»»»»»»»»»»»» %GOLD%Steel Shade %RED%««««««««««««««
+ItemDisplay[UNI !ID uhm !ETH]: %RED%»»»»»»»»»»»»»» %GOLD%Veil of Steel %GRAY%| %GOLD%Nightwing's Veil %RED%««««««««««««««
+ItemDisplay[UNI !ID usk !ETH]: %RED%» %GOLD%Andariel's Visage %RED%«
+ItemDisplay[UNI !ID urn !ETH]: %RED%» %GOLD%Crown of Ages %RED%«
+ItemDisplay[UNI !ID xh9 !ETH]: %RED%» %GOLD%Vampire Gaze %RED%«
+ItemDisplay[UNI !ID dra !ETH]: %RED%» %GOLD%Jalal's Mane %RED%«
+ItemDisplay[UNI !ID ci2 !ETH]: %RED%» %GOLD%Kira's Guardian %RED%«
+ItemDisplay[UNI !ID ci3 !ETH]: %RED%»»»»»»»»»»»»»» %GOLD%Griffon's Eye %RED%««««««««««««««
 //		Armor
-ItemDisplay[UNI !ID uui !ETH]: %RED%» %PURPLE%Ormus' Robes %RED%«
-ItemDisplay[UNI !ID utu !ETH]: %RED%» The Gladiator's Bane %RED%«
-ItemDisplay[UNI !ID upl !ETH]: %RED%» %PURPLE%Arkaine's Valor %RED%«
-ItemDisplay[UNI !ID xea !ETH]: %RED%» %PURPLE%Skin of the Vipermagi %RED%«
-ItemDisplay[UNI !ID xhn !ETH]: %RED%» %PURPLE%Shaftstop %RED%«
+ItemDisplay[UNI !ID uui !ETH]: %RED%»»»»»»»»»»»»»» %GOLD%Ormus' Robes %RED%««««««««««««««
+ItemDisplay[UNI !ID utu !ETH]: %RED%» %GOLD%The Gladiator's Bane %RED%«
+ItemDisplay[UNI !ID upl !ETH]: %RED%» %GOLD%Arkaine's Valor %RED%«
+ItemDisplay[UNI !ID xea !ETH]: %RED%»»»»»»»»»»»»»» %PURPLE%Skin of the Vipermagi %RED%««««««««««««««
+ItemDisplay[UNI !ID xhn !ETH]: %RED%» %GOLD%Shaftstop %RED%«
+ItemDisplay[UNI !ID xhn ETH]: %RED%»»»»»»»»»»»»»» %GOLD%Shaftstop %RED%««««««««««««««
 //		Off-Hand
-ItemDisplay[UNI !ID uit !ETH]: %RED%» %PURPLE%Stormshield %RED%«
-ItemDisplay[UNI !ID uow !ETH]: %RED%» %PURPLE%Medusa's Gaze %RED%«
-ItemDisplay[UNI !ID nea !ETH]: %RED%» %PURPLE%Homunculus %RED%«
-ItemDisplay[UNI !ID pa9 !ETH]: %RED%» %PURPLE%Herald of Zakarum %RED%«
+ItemDisplay[UNI !ID uit !ETH]: %RED%» %GOLD%Stormshield %RED%«
+ItemDisplay[UNI !ID uow !ETH]: %RED%» %GOLD%Medusa's Gaze %RED%«
+ItemDisplay[UNI !ID nea !ETH]: %RED%» %GOLD%Homunculus %RED%«
+ItemDisplay[UNI !ID pa9 !ETH]: %RED%» %GOLD%Herald of Zakarum %RED%«
 //		Gloves
-ItemDisplay[UNI !ID uvg !ETH]: %RED%» %PURPLE%Dracul's Grasp %RED%«
-ItemDisplay[UNI !ID umg !ETH]: %RED%» Soul Drainer %RED%«
-ItemDisplay[UNI !ID uhg !ETH]: %RED%» Steelrend %RED%«
-ItemDisplay[UNI !ID mgl !ETH]: %RED%» Chance Guards %RED%«
-ItemDisplay[UNI !ID tgl !ETH]: %RED%» Magefist %RED%«
-ItemDisplay[UNI !ID hgl !ETH]: %RED%» Frostburn %RED%«
+ItemDisplay[UNI !ID uvg !ETH]: %RED%» %GOLD%Dracul's Grasp %RED%«
+ItemDisplay[UNI !ID umg !ETH]: %RED%» %GOLD%Soul Drainer %RED%«
+ItemDisplay[UNI !ID uhg !ETH]: %RED%» %GOLD%Steelrend %RED%«
+ItemDisplay[UNI !ID mgl !ETH]: %RED%» %GOLD%Chance Guards %RED%«
+ItemDisplay[UNI !ID tgl !ETH]: %RED%» %GOLD%Magefist %RED%«
+ItemDisplay[UNI !ID hgl !ETH]: %RED%» %GOLD%Frostburn %RED%«
 //		Boots
-ItemDisplay[UNI !ID uvb !ETH]: %RED%» Sandstorm Trek %RED%«
-ItemDisplay[UNI !ID xtb !ETH]: %RED%» %PURPLE%War Traveler %RED%«
-ItemDisplay[UNI !ID xhb !ETH]: %RED%» %PURPLE%Gore Rider %RED%«
-ItemDisplay[UNI !ID xmb !ETH]: %RED%» Silkweave %RED%«
+ItemDisplay[UNI !ID uvb !ETH]: %RED%» %GOLD%Sandstorm Trek %RED%«
+ItemDisplay[UNI !ID xtb !ETH]: %RED%»»»»»»»»»»»»»» %GOLD%War Traveler %RED%««««««««««««««
+ItemDisplay[UNI !ID xhb !ETH]: %RED%»»»»»»»»»»»»»» %GOLD%Gore Rider %RED%««««««««««««««
+ItemDisplay[UNI !ID xmb !ETH]: %RED%» %GOLD%Silkweave %RED%«
 //		Belts
-ItemDisplay[UNI !ID ulc !ETH]: %RED%» %PURPLE%Arachnid Mesh %RED%«
-ItemDisplay[UNI !ID umc !ETH]: %RED%» %PURPLE%Verdungo's Hearty Cord %RED%«
-ItemDisplay[UNI !ID zlb !ETH]: %RED%» String of Ears %RED%«
-ItemDisplay[UNI !ID zvb !ETH]: %RED%» Razortail %RED%«
-ItemDisplay[UNI !ID zhb !ETH]: %RED%» %PURPLE%Thundergod's Vigor %RED%«
+ItemDisplay[UNI !ID ulc !ETH]: %RED%»»»»»»»»»»»»»» %GOLD%Arachnid Mesh %RED%««««««««««««««
+ItemDisplay[UNI !ID umc !ETH]: %RED%»»»»»»»»»»»»»» %GOLD%Verdungo's Hearty Cord %RED%««««««««««««««
+ItemDisplay[UNI !ID zlb !ETH]: %RED%» %GOLD%String of Ears %RED%«
+ItemDisplay[UNI !ID zvb !ETH]: %RED%» %GOLD%Razortail %RED%«
+ItemDisplay[UNI !ID zhb !ETH]: %RED%»»»»»»»»»»»»»» %GOLD%Thundergod's Vigor %RED%««««««««««««««
 //		Weapons
-ItemDisplay[UNI !ID 6lw]: %RED%» %PURPLE%Windforce %RED%«
-ItemDisplay[UNI !ID 7s8 ETH]: %RED%» %PURPLE%ETH Reaper's Toll %RED%«
-ItemDisplay[UNI !ID 7cr]: %RED%» %PURPLE%Lightsabre |r Azurewrath %RED%«
-ItemDisplay[UNI !ID 7bk !ETH]: %RED%» Warshrike %RED%«
-ItemDisplay[UNI !ID 9fc !ETH]: %RED%» Blade of Ali Baba %RED%«
-ItemDisplay[UNI !ID ama !ETH]: %RED%» Titan's Revenge %RED%«
-ItemDisplay[UNI !ID oba !ETH]: %RED%» The Oculus %RED%«
-ItemDisplay[UNI !ID obc !ETH]: %RED%» Eschuta's Temper %RED%«
-ItemDisplay[UNI !ID obf !ETH]: %RED%» Death's Fathom %RED%«
-ItemDisplay[UNI !ID dgr !ETH]: %RED%» Gull %RED%«
+ItemDisplay[UNI !ID 6lw]: %RED%» %GOLD%Windforce %RED%«
+ItemDisplay[UNI !ID 7s8 ETH]: %RED%» %GRAY%ETH %GOLD%Reaper's Toll %RED%«
+ItemDisplay[UNI !ID 7cr]: %RED%» %GOLD%Lightsabre %GRAY%| %GOLD%Azurewrath %RED%«
+ItemDisplay[UNI !ID 7bk !ETH]: %RED%» %GOLD%Warshrike %RED%«
+ItemDisplay[UNI !ID 9fc !ETH]: %RED%» %GOLD%Blade of Ali Baba %RED%«
+ItemDisplay[UNI !ID ama !ETH]: %RED%» %GOLD%Titan's Revenge %RED%«
+ItemDisplay[UNI !ID oba !ETH]: %RED%» %GOLD%The Oculus %RED%«
+ItemDisplay[UNI !ID obc !ETH]: %RED%» %GOLD%Eschuta's Temper %RED%«
+ItemDisplay[UNI !ID obf !ETH]: %RED%» %GOLD%Death's Fathom %RED%«
+ItemDisplay[UNI !ID dgr !ETH]: %RED%» %GOLD%Gull %RED%«
 //
 //╔════════════════════════╗
 //║          Sets          ║
 //╚════════════════════════╝
 //
 //		The Disciple
-ItemDisplay[SET !ID ulg]: %PURPLE%» %GREEN%%NAME% %DGREEN%The Disciple %PURPLE%«
+ItemDisplay[SET !ID ulg]: %RED%» %GREEN%Laying of Hands RED%«
 //		Heaven's Brethren
-ItemDisplay[SET !ID 7ma]: %RED%» %GREEN%%NAME% %DGREEN%Dangoon's Teaching %RED%«
-ItemDisplay[SET !ID uhm]: %RED%» %GREEN%%NAME% %DGREEN%Ondal's Almighty %RED%«
-//		Hwanin's Majesty
-ItemDisplay[SET !ID 9vo ETH]: %RED%» %GREEN%ETH %NAME% %DGREEN%Hwanin's %RED%«
+ItemDisplay[SET !ID 7ma]: %RED%» %GREEN%Dangoon's Teaching %RED%«
+ItemDisplay[SET !ID uhm]: %RED%» %GREEN%Ondal's Almighty %RED%«
 //		Immortal King
-ItemDisplay[SET !ID ba5]: %RED%» %GREEN%%NAME% %DGREEN%Immortal King %RED%«
-ItemDisplay[SET !ID uar]: %PURPLE%» %GREEN%%NAME% %DGREEN%Immortal King %PURPLE%«
-ItemDisplay[SET !ID xhb]: %RED%» %GREEN%%NAME% %DGREEN%Immortal King %RED%«
+ItemDisplay[SET !ID ba5]: %RED%» %GREEN%Immortal King's Will %RED%«
+ItemDisplay[SET !ID uar]: %RED%» %GREEN%Immortal King's Soul Cage %RED%«
 //M'avina's Battle Hymn
-ItemDisplay[SET !ID uld]: %RED%» %GREEN%%NAME% %DGREEN%Mavina's %RED%«
+ItemDisplay[SET !ID uld]: %RED%» %GREEN%M'avina's Embrace %RED%«
 /		/Natalya's Odium
-ItemDisplay[SET !ID 7qr]: %RED%» %GREEN%%NAME% %DGREEN%Natalya's %RED%«
-ItemDisplay[SET !ID ucl]: %RED%» %GREEN%%NAME% %DGREEN%Natalya's %RED%«
-ItemDisplay[SET !ID xmb]: %RED%» %GREEN%%NAME% %DGREEN%Natalya's %RED%«
-//		Naj's Ancient Vestige
-ItemDisplay[SET !ID ult]: %RED%» %GREEN%%NAME% %DGREEN%Naj's %RED%«
-ItemDisplay[SET !ID 6cs]: %RED%» %GREEN%%NAME% %DGREEN%Naj's %RED%«
+ItemDisplay[SET !ID 7qr]: %RED%» %GREEN%Natalya's Mark %RED%«
+ItemDisplay[SET !ID ucl]: %RED%» %GREEN%Natalya's Shadow %RED%«
 //		Orphan's Call
-ItemDisplay[SET !ID xhm]: %RED%» %GREEN%%NAME% %DGREEN%Orphan's (Guillaume's Face) %RED%«
-ItemDisplay[SET !ID xml]: %RED%» %GREEN%%NAME% %DGREEN%Orphan's %RED%«
-//		Sazabi's Grand Tribute
-ItemDisplay[SET !ID 7ls !ETH]: %RED%» %GREEN%%NAME% %DGREEN%Sazabi's %RED%«
-ItemDisplay[SET !ID 7ls ETH]: %RED%» %GREEN%ETH %NAME% %DGREEN%Sazabi's %RED%«
+ItemDisplay[SET !ID xhm]: %RED%» %GREEN%Guillaume's Face %RED%«
 //		Tal Rasha's Wrappings
-ItemDisplay[SET !ID oba]: %RED%» %GREEN%%NAME% %DGREEN%Tal Rasha's %RED%«
-ItemDisplay[SET !ID xsk]: %RED%» %GREEN%%NAME% %DGREEN%Tal Rasha's %RED%«
-ItemDisplay[SET !ID uth]: %PURPLE%» %GREEN%%NAME% %DGREEN%Tal Rasha's %PURPLE%«
-ItemDisplay[SET !ID zmb]: %RED%» %GREEN%%NAME% %DGREEN%Tal Rasha's %RED%«
+ItemDisplay[SET !ID uth]: %RED%» %GREEN%Tal Rasha's Guardianship %RED%«
 //		Trang-Oul's Avatar
-ItemDisplay[SET !ID uh9]: %RED%» %GREEN%%NAME% %DGREEN%Trang-Oul's %RED%«
-ItemDisplay[SET !ID xul]: %RED%» %GREEN%%NAME% %DGREEN%Trang-Oul's %RED%«
-ItemDisplay[SET !ID ne9]: %RED%» %GREEN%%NAME% %DGREEN%Trang-Oul's %RED%«
-ItemDisplay[SET !ID utc]: %RED%» %GREEN%%NAME% %DGREEN%Trang-Oul's %RED%«
-ItemDisplay[SET !ID xmg]: %RED%» %GREEN%%NAME% %DGREEN%Trang-Oul's %RED%«
+ItemDisplay[SET !ID xul]: %RED%» %GREEN%Trang-Oul's Scales %RED%«
+ItemDisplay[SET !ID xmg]: %RED%» %GREEN%Trang-Oul's Claws %RED%«
 //		Amulets
 ItemDisplay[SET !ID amu]: %RED%» %GREEN%%NAME% %RED%O
-//
-//╔══════════════════════════════════╗
-//║          Runeword Bases          ║
-//╚══════════════════════════════════╝
-//
-ItemDisplay[RW]: %NAME% %GRAY%[%SOCKETS%]
-ItemDisplay[NMAG ETH !RW !SOCK=1 ED>9 xtp]: %RED%» %DGREEN%ETH %NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
-ItemDisplay[NMAG ETH !RW !SOCK=1 ED>9 uui]: %RED%» %DGREEN%ETH %NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
-ItemDisplay[NMAG ETH !RW !SOCK=1 ED>9 uea]: %RED%» %DGREEN%ETH %NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
-ItemDisplay[NMAG ETH !RW !SOCK=1 ED>9 utu]: %RED%» %DGREEN%ETH %NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
-ItemDisplay[NMAG ETH !RW !SOCK=1 ED>9 utp]: %RED%» %DGREEN%ETH %NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
-ItemDisplay[NMAG !ETH !RW !SOCK=1 ED>9 xtp]: %RED%» %DGREEN%%NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
-ItemDisplay[NMAG !ETH !RW !SOCK=1 ED>9 utp]: %RED%» %DGREEN%%NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
-ItemDisplay[urg !RW NMAG ED>9 (SOCK=3 OR SOCK=0)]: %RED%» %DGREEN%%NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
-ItemDisplay[7cr !RW NMAG ED>9 SOCK=6]: %RED%» %DGREEN%%NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
-ItemDisplay[7ls ETH !RW NMAG ED>9 SOCK=3]: %RED%» %DGREEN%ETH %NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
-ItemDisplay[7ls !ETH !RW NMAG ED>9 SOCK=3]: %RED%» %DGREEN%%NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
-ItemDisplay[72h !ETH !RW NMAG ED>9 SOCK=3]: %RED%» %DGREEN%%NAME%%BLUE% +15%ED %GRAY%[%SOCKETS%] %RED%«
 //
 //╔═════════════════════════╗
 //║          Rares          ║
 //╚═════════════════════════╝
 //
-ItemDisplay[RARE EQ7 !ETH !ID]: %YELLOW%▒ %YELLOW%%NAME% %YELLOW%▒
-ItemDisplay[RARE amu !ID ILVL>88]: %RED%▒ %YELLOW%%NAME% %RED%▒
-ItemDisplay[RARE jew !ID]: %RED%▒ %YELLOW%%NAME% %RED%▒
-ItemDisplay[RARE !ID !WEAPON !CL1 !CL2 !CL3 !CL4 !CL5 !CL6 !CL7 !EQ1 !EQ2 !EQ3 !EQ5 ILVL>88]: %YELLOW%%NAME%
-ItemDisplay[RARE !ID CL5 WP6 ILVL>88]: %YELLOW%%NAME%
+ItemDisplay[RARE EQ7 !ETH !ID]: %RED%» %YELLOW%%NAME% %RED%«
+ItemDisplay[RARE amu !ID ILVL>88]: %RED%» %YELLOW%%NAME% %RED%«
+ItemDisplay[RARE jew !ID]: %RED%» %YELLOW%%NAME% %RED%«
 //
 //╔═══════════════════════════════════════════════════════════════╗
 //║          Anirml's Crafting Codes <3 (modified style)          ║
@@ -658,7 +623,7 @@ ItemDisplay[MAG !ID]:
 ItemDisplay[RARE !ID]:
 ItemDisplay[UNI !ID]:
 ItemDisplay[SET !ID]:
-ItemDisplay[MAG]:
-ItemDisplay[RARE]: %NAME% %WHITE%%ILVL%
-ItemDisplay[UNI]: %NAME%
-ItemDisplay[SET]: %NAME%
+ItemDisplay[MAG ID]: %NAME% %WHITE%%ILVL%
+ItemDisplay[RARE ID]: %NAME% %WHITE%%ILVL%
+ItemDisplay[UNI ID]: %NAME%
+ItemDisplay[SET ID]: %NAME%
