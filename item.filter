@@ -39,8 +39,8 @@ ItemDisplay[toa]: %PURPLE%Token %GRAY%of %RED%Abs%WHITE%olut%RED%ion
 ItemDisplay[std]: %NAME%
 ItemDisplay[cx5]: %PURPLE%Orb %GRAY%of %RED%Corruption
 ItemDisplay[cx6]: %RED%Diablo's %PURPLE%Soulstone
-ItemDisplay[cx7]: %WHITE%KEY %GRAY%OF %PURPLE%CHAOS
-ItemDisplay[cx8]: %BLUE%Enchantment %PURPLE%Orb
+ItemDisplay[cx7]: %PURPLE%KEY %GRAY%OF %WHITE%CHAOS
+ItemDisplay[cx8]: %PURPLE%Enchantment %WHITE%Orb
 ItemDisplay[cx9]: %PURPLE%%NAME%
 ItemDisplay[ma1]: %PURPLE%%NAME%
 ItemDisplay[ma2]: %PURPLE%Tier 4 Map %GRAY%Forgotten Desert
@@ -141,17 +141,17 @@ ItemDisplay[gsr]: %RED%c
 ItemDisplay[gsb]: %BLUE%c
 ItemDisplay[gsy]: %YELLOW%c
 ItemDisplay[sku]: %GRAY%c
-ItemDisplay[gzv]: %PURPLE%b %TAN%{%BLUE%c%TAN%}
+ItemDisplay[gzv]: %PURPLE%b %TAN%{%ORANGE%c%TAN%}
 ItemDisplay[glw]: %WHITE%b
 ItemDisplay[glg]: %GREEN%b
-ItemDisplay[glr]: %RED%b %TAN%{%RED%b%TAN%}
+ItemDisplay[glr]: %RED%b %TAN%{%ORANGE%b%TAN%}
 ItemDisplay[glb]: %BLUE%b
 ItemDisplay[gly]: %YELLOW%b
 ItemDisplay[skl]: %GRAY%b
-ItemDisplay[gpv]: %PURPLE%a %TAN%{%BLUE%c%TAN%}
+ItemDisplay[gpv]: %PURPLE%a %TAN%{%ORANGE%c%TAN%}
 ItemDisplay[gpw]: %WHITE%a
 ItemDisplay[gpg]: %GREEN%a
-ItemDisplay[gpr]: %RED%a %TAN%{%RED%b%TAN%}
+ItemDisplay[gpr]: %RED%a %TAN%{%ORANGE%b%TAN%}
 ItemDisplay[gpb]: %BLUE%a
 ItemDisplay[gpy]: %YELLOW%a
 ItemDisplay[skz]: %GRAY%a
