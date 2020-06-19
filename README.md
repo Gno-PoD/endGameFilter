@@ -8,7 +8,7 @@ Hides gold when the stash bank is full.
 
 Hides all consumables but Full Rejuvenation Potions.
 
-Runes display their number, their upgrade receipe, and relative trade value. Runes are seperated into 4 categories: no arrows = questionable value, tan arrows = useful for crafting, gray arrows = somewhat valuable (20+), red arrows >= 1 HR.
+Runes display their number, their upgrade receipe, and relative trade value. Runes are seperated into 4 categories of perceived value: no arrows = no value, tan arrows = crafting value, gray arrows = some value (Pul+), red arrows = tremendous value ( >= 1 HR ).
 
 All circlets and jewels are displayed.
 
