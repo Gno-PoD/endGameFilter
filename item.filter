@@ -89,14 +89,14 @@ ItemDisplay[r04]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}
 ItemDisplay[r05]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}
 ItemDisplay[r06]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}
 ItemDisplay[r07]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}
-ItemDisplay[r08]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN% %GRAY%| %ORANGE%CA%TAN%}
+ItemDisplay[r08]: %TAN%» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN% %GRAY%| %ORANGE%CA%TAN%} %TAN%«
 ItemDisplay[r09]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%TAN%}
 ItemDisplay[r10]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%YELLOW%e%TAN%}
-ItemDisplay[r11]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%PURPLE%e%TAN% %GRAY%| %ORANGE%BA %GRAY%| %ORANGE%CR%TAN%}
-ItemDisplay[r12]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%BLUE%e%TAN% %GRAY%| %ORANGE%BR%TAN%}
+ItemDisplay[r11]: %TAN%» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%PURPLE%e%TAN% %GRAY%| %ORANGE%BA %GRAY%| %ORANGE%CR%TAN%} %TAN%«
+ItemDisplay[r12]: %TAN%» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%BLUE%e%TAN% %GRAY%| %ORANGE%BR%TAN%} %TAN%«
 ItemDisplay[r13]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%RED%e%TAN%}
 ItemDisplay[r14]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%GREEN%e%TAN%}
-ItemDisplay[r15]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%WHITE%e%TAN%}
+ItemDisplay[r15]: %TAN%» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%WHITE%e%TAN%} %TAN%«
 ItemDisplay[r16]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%YELLOW%d%TAN%}
 ItemDisplay[r17]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%PURPLE%d%TAN%}
 ItemDisplay[r18]: %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%3%BLUE%d%TAN%}
@@ -141,17 +141,17 @@ ItemDisplay[gsr]: %BLACK%* %RED%c %BLACK%*
 ItemDisplay[gsb]: %BLACK%* %BLUE%c %BLACK%*
 ItemDisplay[gsy]: %BLACK%* %YELLOW%c %BLACK%*
 ItemDisplay[sku]: %BLACK%* %GRAY%c %BLACK%*
-ItemDisplay[gzv]: %BLACK%* %PURPLE%b %TAN%{%ORANGE%c%TAN%} %BLACK%*
+ItemDisplay[gzv]: %TAN%» %PURPLE%b %TAN%{%ORANGE%c%TAN%} %TAN%«
 ItemDisplay[glw]: %BLACK%* %WHITE%b %BLACK%*
 ItemDisplay[glg]: %BLACK%* %GREEN%b %BLACK%*
-ItemDisplay[glr]: %BLACK%* %RED%b %TAN%{%ORANGE%b%TAN%} %BLACK%*
+ItemDisplay[glr]: %TAN%» %RED%b %TAN%{%ORANGE%b%TAN%} %TAN%«
 ItemDisplay[glb]: %BLACK%* %BLUE%b %BLACK%*
 ItemDisplay[gly]: %BLACK%* %YELLOW%b %BLACK%*
 ItemDisplay[skl]: %BLACK%* %GRAY%b %BLACK%*
-ItemDisplay[gpv]: %BLACK%* %PURPLE%a %TAN%{%ORANGE%c%TAN%} %BLACK%*
+ItemDisplay[gpv]: %TAN%» %PURPLE%a %TAN%{%ORANGE%c%TAN%} %TAN%«
 ItemDisplay[gpw]: %BLACK%* %WHITE%a %BLACK%*
 ItemDisplay[gpg]: %BLACK%* %GREEN%a %BLACK%*
-ItemDisplay[gpr]: %BLACK%* %RED%a %TAN%{%ORANGE%b%TAN%} %BLACK%*
+ItemDisplay[gpr]: %TAN%» %RED%a %TAN%{%ORANGE%b%TAN%} %TAN%«
 ItemDisplay[gpb]: %BLACK%* %BLUE%a %BLACK%*
 ItemDisplay[gpy]: %BLACK%* %YELLOW%a %BLACK%*
 ItemDisplay[skz]: %BLACK%* %GRAY%a %BLACK%*
