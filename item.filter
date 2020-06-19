@@ -624,8 +624,8 @@ ItemDisplay[ETH]:
 ItemDisplay[INF]:
 ItemDisplay[MAG !ID]:
 ItemDisplay[RARE !ID]:
-ItemDisplay[UNI !ID]:
-ItemDisplay[SET !ID]:
+ItemDisplay[UNI !ID]: %NAME%
+ItemDisplay[SET !ID]: %NAME%
 ItemDisplay[MAG ID]: %NAME% %WHITE%%ILVL%
 ItemDisplay[RARE ID]: %NAME% %WHITE%%ILVL%
 ItemDisplay[UNI ID]: %NAME%
