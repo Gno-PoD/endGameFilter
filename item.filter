@@ -120,41 +120,41 @@ ItemDisplay[r33]: %RED%»»» %ORANGE%%RUNENAME% %WHITE%%RUNENUM% %TAN%{%ORANGE%
 //║          Gems          ║
 //╚════════════════════════╝
 //
-ItemDisplay[gcv]: %PURPLE%e
-ItemDisplay[gcw]: %WHITE%e
-ItemDisplay[gcg]: %GREEN%e
-ItemDisplay[gcr]: %RED%e
-ItemDisplay[gcb]: %BLUE%e
-ItemDisplay[gcy]: %YELLOW%e
-ItemDisplay[skc]: %GRAY%e
-ItemDisplay[gfv]: %PURPLE%d
-ItemDisplay[gfw]: %WHITE%d
-ItemDisplay[gfg]: %GREEN%d
-ItemDisplay[gfr]: %RED%d
-ItemDisplay[gfb]: %BLUE%d
-ItemDisplay[gfy]: %YELLOW%d
-ItemDisplay[skf]: %GRAY%d
-ItemDisplay[gsv]: %PURPLE%c
-ItemDisplay[gsw]: %WHITE%c
-ItemDisplay[gsg]: %GREEN%c
-ItemDisplay[gsr]: %RED%c
-ItemDisplay[gsb]: %BLUE%c
-ItemDisplay[gsy]: %YELLOW%c
-ItemDisplay[sku]: %GRAY%c
-ItemDisplay[gzv]: %PURPLE%b %TAN%{%ORANGE%c%TAN%}
-ItemDisplay[glw]: %WHITE%b
-ItemDisplay[glg]: %GREEN%b
-ItemDisplay[glr]: %RED%b %TAN%{%ORANGE%b%TAN%}
-ItemDisplay[glb]: %BLUE%b
-ItemDisplay[gly]: %YELLOW%b
-ItemDisplay[skl]: %GRAY%b
-ItemDisplay[gpv]: %PURPLE%a %TAN%{%ORANGE%c%TAN%}
-ItemDisplay[gpw]: %WHITE%a
-ItemDisplay[gpg]: %GREEN%a
-ItemDisplay[gpr]: %RED%a %TAN%{%ORANGE%b%TAN%}
-ItemDisplay[gpb]: %BLUE%a
-ItemDisplay[gpy]: %YELLOW%a
-ItemDisplay[skz]: %GRAY%a
+ItemDisplay[gcv]: %BLACK%* %PURPLE%e %BLACK%*
+ItemDisplay[gcw]: %BLACK%* %WHITE%e %BLACK%*
+ItemDisplay[gcg]: %BLACK%* %GREEN%e %BLACK%*
+ItemDisplay[gcr]: %BLACK%* %RED%e %BLACK%*
+ItemDisplay[gcb]: %BLACK%* %BLUE%e %BLACK%*
+ItemDisplay[gcy]: %BLACK%* %YELLOW%e %BLACK%*
+ItemDisplay[skc]: %BLACK%* %GRAY%e %BLACK%*
+ItemDisplay[gfv]: %BLACK%* %PURPLE%d %BLACK%*
+ItemDisplay[gfw]: %BLACK%* %WHITE%d %BLACK%*
+ItemDisplay[gfg]: %BLACK%* %GREEN%d %BLACK%*
+ItemDisplay[gfr]: %BLACK%* %RED%d %BLACK%*
+ItemDisplay[gfb]: %BLACK%* %BLUE%d %BLACK%*
+ItemDisplay[gfy]: %BLACK%* %YELLOW%d %BLACK%*
+ItemDisplay[skf]: %BLACK%* %GRAY%d %BLACK%*
+ItemDisplay[gsv]: %BLACK%* %PURPLE%c %BLACK%*
+ItemDisplay[gsw]: %BLACK%* %WHITE%c %BLACK%*
+ItemDisplay[gsg]: %BLACK%* %GREEN%c %BLACK%*
+ItemDisplay[gsr]: %BLACK%* %RED%c %BLACK%*
+ItemDisplay[gsb]: %BLACK%* %BLUE%c %BLACK%*
+ItemDisplay[gsy]: %BLACK%* %YELLOW%c %BLACK%*
+ItemDisplay[sku]: %BLACK%* %GRAY%c %BLACK%*
+ItemDisplay[gzv]: %BLACK%* %PURPLE%b %TAN%{%ORANGE%c%TAN%} %BLACK%*
+ItemDisplay[glw]: %BLACK%* %WHITE%b %BLACK%*
+ItemDisplay[glg]: %BLACK%* %GREEN%b %BLACK%*
+ItemDisplay[glr]: %BLACK%* %RED%b %TAN%{%ORANGE%b%TAN%} %BLACK%*
+ItemDisplay[glb]: %BLACK%* %BLUE%b %BLACK%*
+ItemDisplay[gly]: %BLACK%* %YELLOW%b %BLACK%*
+ItemDisplay[skl]: %BLACK%* %GRAY%b %BLACK%*
+ItemDisplay[gpv]: %BLACK%* %PURPLE%a %TAN%{%ORANGE%c%TAN%} %BLACK%*
+ItemDisplay[gpw]: %BLACK%* %WHITE%a %BLACK%*
+ItemDisplay[gpg]: %BLACK%* %GREEN%a %BLACK%*
+ItemDisplay[gpr]: %BLACK%* %RED%a %TAN%{%ORANGE%b%TAN%} %BLACK%*
+ItemDisplay[gpb]: %BLACK%* %BLUE%a %BLACK%*
+ItemDisplay[gpy]: %BLACK%* %YELLOW%a %BLACK%*
+ItemDisplay[skz]: %BLACK%* %GRAY%a %BLACK%*
 //
 //╔══════════════════════════╗
 //║          Charms          ║
@@ -271,7 +271,7 @@ ItemDisplay[RARE jew !ID]: %RED%» %YELLOW%J %RED%«
 //╚═══════════════════════════════════════════════════════════════╝
 //
 //		Magic Jewel Override
-ItemDisplay[MAG jew]: %TAN%» %BLUE%J %WHITE%%ILVL% %TAN%«
+ItemDisplay[MAG jew]: %TAN%» %BLUE%Jewel %WHITE%%ILVL% %TAN%«
 //
 //		Magic Amulets best average Clvl and Ilvl is 90+
 //
