@@ -256,7 +256,7 @@ ItemDisplay[SET !ID uth]: %RED%» %GREEN%Tal Rasha's Guardianship %DGREEN%| %GRE
 ItemDisplay[SET !ID xul]: %RED%» %GREEN%Trang-Oul's Scales %DGREEN%| %GREEN%Chaos Armor %RED%«
 ItemDisplay[SET !ID xmg]: %RED%» %GREEN%Trang-Oul's Claws %DGREEN%| %GREEN%Heavy Bracers %RED%«
 //		Amulets
-ItemDisplay[SET !ID amu]: %RED%» %GREEN%%NAME% %RED%O
+ItemDisplay[SET !ID amu]: %RED%» %GREEN%%NAME% %RED%«
 //
 //╔═════════════════════════╗
 //║          Rares          ║
